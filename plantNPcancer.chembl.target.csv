@@ -1,0 +1,2138 @@
+"","ChEMBL ID","Name","Synonyms","Type","Max Phase","Molecular Weight","Targets"
+"1","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"2","CHEMBL1969778",NA,NA,"Small molecule",0,300.31,56
+"3","CHEMBL575424","5,7-DIHYDROXY-4-METHYLPHTHALIDE",NA,"Small molecule",0,180.16,18
+"4","CHEMBL3594084",NA,NA,"Small molecule",0,330.34,7
+"5","CHEMBL2334872",NA,NA,"Small molecule",0,313.35,3
+"6","CHEMBL402744",NA,"(2S)-7-Hydroxyflavanone","Small molecule",0,240.26,10
+"7","CHEMBL2402007","(-)-PRANTSCHIMGIN",NA,"Small molecule",0,328.36,5
+"8","CHEMBL524903",NA,"3-(Hydroxyacetyl)Indole|3-(Hydroxylacetyl)-Indole","Small molecule",0,175.19,9
+"9","CHEMBL1081414","SHANZHISIDE METHYL ESTER","Shanzhiside Methyl Ester","Small molecule",0,406.38,6
+"10","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"11","CHEMBL241609","OROBOL","Orobol","Small molecule",0,286.24,11
+"12","CHEMBL564527",NA,NA,"Small molecule",0,482.53,7
+"13","CHEMBL465808","ATALANTOFLAVONE","Atalantoflavone","Small molecule",0,336.34,14
+"14","CHEMBL3039425","LINAMARIN",NA,"Small molecule",0,247.25,2
+"15","CHEMBL1979348",NA,NA,"Small molecule",0,390.91,60
+"16","CHEMBL1940084",NA,"(+)-tuberiferin","Small molecule",0,246.31,5
+"17","CHEMBL565010","NIGROLINEAXANTHONE T","Nigrolineaxanthone T","Small molecule",0,360.36,7
+"18","CHEMBL1171146","SARSASAPOGENIN","Sarsasapogenin","Small molecule",0,416.65,16
+"19","CHEMBL503722","PARISSAPONIN PB","Parissaponin Pb","Small molecule",0,1147.31,1
+"20","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"21","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"22","CHEMBL3338221",NA,NA,"Small molecule",0,326.4,2
+"23","CHEMBL491174","PRUNETIN","Prunetin","Small molecule",0,284.27,27
+"24","CHEMBL1080487",NA,"Delta-Cotonefuran","Small molecule",0,260.24,4
+"25","CHEMBL1784243",NA,NA,"Small molecule",0,416.69,3
+"26","CHEMBL1834675","SPHAEROPSIDIN A",NA,"Small molecule",0,346.42,26
+"27","CHEMBL1974356",NA,NA,"Small molecule",0,386.36,57
+"28","CHEMBL1095954",NA,"(E)-Cinnamyl (E)-Cinnamate","Small molecule",0,264.32,3
+"29","CHEMBL250872","SYRINGIN","Syringin","Small molecule",0,372.37,20
+"30","CHEMBL258137","TYLOPHORINE","GNF-Pf-838","Small molecule",0,393.48,20
+"31","CHEMBL1813259",NA,NA,"Small molecule",0,432.38,3
+"32","CHEMBL443408","MYRTENOL","myrtenol","Small molecule",0,152.24,5
+"33","CHEMBL1989993",NA,NA,"Small molecule",0,500.59,58
+"34","CHEMBL518300","COMBRETOL","Combretol","Small molecule",0,388.37,1
+"35","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"36","CHEMBL108862","CHAVICOL","4-Allyl-Phenol","Small molecule",0,134.18,4
+"37","CHEMBL400538","COMAPARVIN","Comaparvin","Small molecule",0,300.31,5
+"38","CHEMBL2375662",NA,NA,"Small molecule",0,838.94,3
+"39","CHEMBL469855","OPHIOBOLIN C","Ophiobolin C","Small molecule",0,386.58,1
+"40","CHEMBL505882",NA,"(23Z)-Coumaroylhederagenin","Small molecule",0,618.86,2
+"41","CHEMBL2007233",NA,NA,"Small molecule",0,457.43,66
+"42","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"43","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"44","CHEMBL464889",NA,NA,"Small molecule",0,364.35,5
+"45","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"46","CHEMBL1965404",NA,NA,"Small molecule",0,388.42,50
+"47","CHEMBL225754","CYCLOEUCALENONE","Cycloeucalenone","Small molecule",0,424.71,3
+"48","CHEMBL488748","MONOMARGINE","Monomargine","Small molecule",0,248.24,3
+"49","CHEMBL465663","MELITERNATIN","Meliternatin","Small molecule",0,370.31,59
+"50","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"51","CHEMBL1689806","CLAUSINE K","Clausine K","Small molecule",0,271.27,7
+"52","CHEMBL1974890","CEDROL","Cedrol","Small molecule",0,222.37,73
+"53","CHEMBL3808919",NA,NA,"Small molecule",0,422.48,10
+"54","CHEMBL1984754",NA,NA,"Small molecule",0,458.73,54
+"55","CHEMBL363535","TANSHINONE I","Tanshinone I","Small molecule",0,276.29,70
+"56","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"57","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"58","CHEMBL1998453",NA,NA,"Small molecule",0,358.39,57
+"59","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"60","CHEMBL237111","AKBA","3-ACETYL-11-KETO-BETA-BOSWELLIC ACID|AKBA","Small molecule",0,512.73,34
+"61","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"62","CHEMBL488748","MONOMARGINE","Monomargine","Small molecule",0,248.24,3
+"63","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"64","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"65","CHEMBL457605","TAZETTINE","(+)-Tazettine","Small molecule",0,331.37,21
+"66","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"67","CHEMBL501322","CAPSICASTRINE","Capsicastrine","Small molecule",0,577.8,1
+"68","CHEMBL1778417","PRUNASIN","Prunasin","Small molecule",0,295.29,2
+"69","CHEMBL74923",NA,NA,"Small molecule",0,420.37,56
+"70","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"71","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"72","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"73","CHEMBL487606","BARRINGTOGENOL C","Barringtogenol C","Small molecule",0,490.73,8
+"74","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"75","CHEMBL2103763",NA,NA,"Small molecule",0,418.4,2
+"76","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"77","CHEMBL460139","NOTOAMIDE J","Notoamide J","Small molecule",0,383.45,1
+"78","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"79","CHEMBL469432",NA,NA,"Small molecule",0,222.2,13
+"80","CHEMBL259667",NA,NA,"Small molecule",0,370.45,1
+"81","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"82","CHEMBL124518","PHORBOL","Phorbol","Small molecule",0,364.44,12
+"83","CHEMBL1782233",NA,"18-Demethylgardfloramine","Small molecule",0,382.42,5
+"84","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"85","CHEMBL296800",NA,NA,"Small molecule",0,284.27,15
+"86","CHEMBL1641904",NA,NA,"Small molecule",0,358.39,6
+"87","CHEMBL3594353",NA,NA,"Small molecule",0,638.88,8
+"88","CHEMBL204860","MATRINE","Matrine","Small molecule",0,248.37,65
+"89","CHEMBL239077","TOMENTIC ACID","Tomentic Acid|Tormentic Acid","Small molecule",0,488.71,22
+"90","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"91","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"92","CHEMBL224481","CABRALEONE","Cabraleone","Small molecule",0,458.73,11
+"93","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"94","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"95","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"96","CHEMBL503938","EUPARIN","Euparin","Small molecule",0,216.24,28
+"97","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"98","CHEMBL508781",NA,"(+)-Aromoline","Small molecule",0,594.71,68
+"99","CHEMBL498737","XYLOPINIC ACID","Xylopinic Acid","Small molecule",0,374.48,2
+"100","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"101","CHEMBL516995","CRASSOCOLIDE D","Crassocolide D","Small molecule",0,334.46,4
+"102","CHEMBL1224369",NA,NA,"Small molecule",0,326.3,2
+"103","CHEMBL1209536","CORYTERNATINE C","Coryternatine C","Small molecule",0,371.39,4
+"104","CHEMBL2425666",NA,NA,"Small molecule",0,432.51,5
+"105","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"106","CHEMBL1923744","CRASSOCOLIDE N","Crassocolide N","Small molecule",0,330.42,3
+"107","CHEMBL522604","ONOPORDOPICRIN","Onopordopicrin","Small molecule",0,348.4,7
+"108","CHEMBL226507","SINENSETIN","Sinensetin","Small molecule",0,372.37,36
+"109","CHEMBL462050","YUNNACORONARIN A",NA,"Small molecule",0,300.44,8
+"110","CHEMBL504757","ISOTETRANDRINE","(R,S)-TETRANDRINE|1-ISOTETRANDRINE|ISOSINOMENIN A|ISOSINOMENINE A|ISOTETRANDRINE|NSC-97338|O,O'-DIMETHYLOBAMEGINE|O,O'-DIMETHYLSTEPHOLINE|O-METHYLBERBAMINE","Small molecule",0,622.76,67
+"111","CHEMBL449980",NA,"(-)-Curicycleatjenine","Small molecule",0,634.73,3
+"112","CHEMBL479880",NA,"N-Butylbenzenesulfonamide","Small molecule",0,213.3,1
+"113","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"114","CHEMBL253038",NA,"(3S)-Vestitone","Small molecule",0,286.28,5
+"115","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"116","CHEMBL3799137",NA,NA,"Small molecule",0,286.46,4
+"117","CHEMBL312862","DEMECOLCINE","C-12669|COLCHAMINE|DEACETYL-N-METHYLCOLCHICINE|DEMECOLCINE|NSC-3096|SUBSTANCE F","Small molecule",0,371.43,34
+"118","CHEMBL508651","AVICIN D","avicin D","Small molecule",0,2083.28,1
+"119","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"120","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"121","CHEMBL1230782",NA,"L-Alpha-Aminobutyric Acid","Small molecule",0,103.12,2
+"122","CHEMBL2002847",NA,NA,"Small molecule",0,341.41,55
+"123","CHEMBL317221",NA,NA,"Small molecule",0,270.28,6
+"124","CHEMBL239077","TOMENTIC ACID","Tomentic Acid|Tormentic Acid","Small molecule",0,488.71,22
+"125","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"126","CHEMBL1182694",NA,NA,"Small molecule",0,333.34,2
+"127","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"128","CHEMBL1773607","PEDUNCULOSUMOSIDE F","Pedunculosumoside F","Small molecule",0,640.55,2
+"129","CHEMBL113029",NA,NA,"Small molecule",0,258.27,8
+"130","CHEMBL458457",NA,"17-Epi-Holacurtine","Small molecule",0,491.71,3
+"131","CHEMBL1940084",NA,"(+)-tuberiferin","Small molecule",0,246.31,5
+"132","CHEMBL1940084",NA,"(+)-tuberiferin","Small molecule",0,246.31,5
+"133","CHEMBL254051","GARBANZOL","Garbanzol","Small molecule",0,272.26,6
+"134","CHEMBL1093742",NA,"9-Hydroxyoctadecanoic Acid","Small molecule",0,300.48,1
+"135","CHEMBL491989","OXYAYANIN A",NA,"Small molecule",0,360.32,1
+"136","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"137","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"138","CHEMBL519331",NA,"NSC-76988","Small molecule",0,286.24,3
+"139","CHEMBL521354","BRYOPHYLLIN A",NA,"Small molecule",0,472.53,5
+"140","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"141","CHEMBL1182694",NA,NA,"Small molecule",0,333.34,2
+"142","CHEMBL252913",NA,"(3S)-Vestitol","Small molecule",0,272.3,8
+"143","CHEMBL388342","BOLDINE","(+)-Boldine|(S)-(+)-Boldine|Boldine","Small molecule",0,327.38,37
+"144","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"145","CHEMBL3609097",NA,NA,"Small molecule",0,652.56,1
+"146","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"147","CHEMBL518704",NA,NA,"Small molecule",0,524.56,3
+"148","CHEMBL462886",NA,"Blumiolide-A","Small molecule",0,332.44,2
+"149","CHEMBL267099","TUBERCIDIN","Tubercidin","Small molecule",0,266.26,81
+"150","CHEMBL509319",NA,NA,"Small molecule",0,190.2,11
+"151","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"152","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"153","CHEMBL108862","CHAVICOL","4-Allyl-Phenol","Small molecule",0,134.18,4
+"154","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"155","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"156","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"157","CHEMBL458846","RUBRAXANTHONE","Rubraxanthone","Small molecule",0,410.47,14
+"158","CHEMBL486599",NA,NA,"Small molecule",0,258.23,3
+"159","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"160","CHEMBL513957","ACROVESTONE","Acrovestone","Small molecule",0,554.68,9
+"161","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"162","CHEMBL1097683",NA,"Hydroxy-3,7-Dimethoxyflavone","Small molecule",0,298.29,9
+"163","CHEMBL1784743","TRIGOHOWNIN A","Trigohownin A","Small molecule",0,734.8,1
+"164","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"165","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"166","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"167","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"168","CHEMBL2304288",NA,NA,"Small molecule",0,880.05,2
+"169","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"170","CHEMBL1773906","COMOSUSOL B","Comosusol B","Small molecule",0,262.35,5
+"171","CHEMBL464360","EMODIN 8-O-BETA-D-GLUCOPYRANOSIDE","Emodin 8-glucoside","Small molecule",0,432.38,5
+"172","CHEMBL1098427","HIPPURISTANOL","Hippuristanol","Small molecule",0,462.67,15
+"173","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"174","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"175","CHEMBL464889",NA,NA,"Small molecule",0,364.35,5
+"176","CHEMBL223942","FURANOCEMBRANOID 2","Furanocembranoid 2","Small molecule",0,318.46,3
+"177","CHEMBL515252",NA,"13,Ii8-Biapigenin|3,8'-Biapigenin","Small molecule",0,538.46,37
+"178","CHEMBL507971",NA,"8(12)-Drimene","Small molecule",0,206.37,5
+"179","CHEMBL511557","BUCHAPINE","Buchapine","Small molecule",0,297.4,4
+"180","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"181","CHEMBL495858","KADSUPHILINS B",NA,"Small molecule",0,402.44,3
+"182","CHEMBL286796","ETHYL FERULATE","Ethyl Ferulate","Small molecule",0,222.24,25
+"183","CHEMBL466334","XANTHOGALENOL","xanthogalenol","Small molecule",0,354.4,2
+"184","CHEMBL484652","ISONAAMIDINE E","Isonaamidine E","Small molecule",0,463.49,10
+"185","CHEMBL2448591",NA,NA,"Small molecule",0,428.75,55
+"186","CHEMBL39025",NA,NA,"Small molecule",0,608.73,6
+"187","CHEMBL1922244",NA,NA,"Small molecule",0,263.25,13
+"188","CHEMBL108862","CHAVICOL","4-Allyl-Phenol","Small molecule",0,134.18,4
+"189","CHEMBL469717",NA,"Ar-Curcumene","Small molecule",0,202.34,5
+"190","CHEMBL238845",NA,"(-)-Medicarpin","Small molecule",0,270.28,73
+"191","CHEMBL490355","SULFURETIN","Sulfuretin","Small molecule",0,270.24,97
+"192","CHEMBL1689801","7-HYDROXYHEPTAPHYLLINE","7-Hydroxyheptaphylline","Small molecule",0,295.34,7
+"193","CHEMBL1092320","ANGELOYLGOMISIN H","Angeloylgomisin H","Small molecule",0,500.59,4
+"194","CHEMBL12193",NA,"Piperidin-2-one","Small molecule",0,99.13,65
+"195","CHEMBL225634","CYCLOEUCALENOL","Cycloeucalenol","Small molecule",0,426.73,3
+"196","CHEMBL1987496",NA,NA,"Small molecule",0,244.21,56
+"197","CHEMBL518633","NOTOAMIDE I","Notoamide I","Small molecule",0,445.52,1
+"198","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"199","CHEMBL446253",NA,"Methyl Carbazole-3-Carboxylate","Small molecule",0,225.25,12
+"200","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"201","CHEMBL2003515",NA,NA,"Small molecule",0,314.29,60
+"202","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"203","CHEMBL465221","FERRUGICADINOL","Ferrugicadinol","Small molecule",0,506.82,1
+"204","CHEMBL374130","BONANNIONE A",NA,"Small molecule",0,408.49,29
+"205","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"206","CHEMBL462729","BUCERACIDIN A",NA,"Small molecule",0,368.39,8
+"207","CHEMBL3103101",NA,NA,"Small molecule",0,302.41,2
+"208","CHEMBL464877","DESACYLCYNAROPICRIN","Desacylcynaropicrin","Small molecule",0,262.3,8
+"209","CHEMBL469945",NA,NA,"Small molecule",0,568.69,12
+"210","CHEMBL504757","ISOTETRANDRINE","(R,S)-TETRANDRINE|1-ISOTETRANDRINE|ISOSINOMENIN A|ISOSINOMENINE A|ISOTETRANDRINE|NSC-97338|O,O'-DIMETHYLOBAMEGINE|O,O'-DIMETHYLSTEPHOLINE|O-METHYLBERBAMINE","Small molecule",0,622.76,67
+"211","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"212","CHEMBL416","METHOXSALEN","8-METHOXSALEN|8-METHOXYPSORALEN|8-MOP|DELTASORALEN|MELADININE|METHOXSALEN|METOXALEN|Methoxsalen|NSC-45923|OXSORALEN-ULTRA|OXYPSORALEN|Oxsoralen|PUVALEN|PUVASORALEN-8|SM-88 COMPONENT METHOXSALEN|UVADEX|VITPSO|XANTHOTOXIN","Small molecule",4,216.19,250
+"213","CHEMBL502089",NA,"Isogarcinol 13-O-Methyl Ether","Small molecule",0,616.84,4
+"214","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"215","CHEMBL452483","GUTTIFERONE A","Guttiferone A|Guttiferone-A","Small molecule",0,602.81,32
+"216","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"217","CHEMBL1782126","RAMONANIN B","Ramonanin B","Small molecule",0,680.75,1
+"218","CHEMBL256448",NA,"(+)-1R-Cocluaurine|(R)-(+)-Coclaurine","Small molecule",0,285.34,5
+"219","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"220","CHEMBL520637",NA,NA,"Small molecule",0,434.35,2
+"221","CHEMBL557930","TUBIFEROLIDE METHYL ESTER","Tubiferolide Methyl Ester|Turbiferolide Methyl Ester","Small molecule",0,482.71,5
+"222","CHEMBL185","FLUOROURACIL","5 FU|5-FLUORURACIL|5-FU|5-Fluorouracil|5.F.U.|ACCUSITE|ACTIKERALL|Adrucil|Carac|EFUDIX|Efudex|FLUORO-URACIL ROCHE|FLUOROURACIL|FLUOROURACILUM|FLUOROURICIL|FLURACIL|Fluoroplex|NSC-19893|PHTHORURACIL|QUEROPLEX|RO 2-9757|RO-2-9757|RO-29757|TOLAK","Small molecule",4,130.08,485
+"223","CHEMBL2386523",NA,NA,"Small molecule",0,286.42,3
+"224","CHEMBL463711",NA,NA,"Small molecule",0,272.3,6
+"225","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"226","CHEMBL1985317",NA,NA,"Small molecule",0,202.25,58
+"227","CHEMBL486261","LUZONOSIDE C","luzonoside C","Small molecule",0,536.53,1
+"228","CHEMBL480882","SIMALIKALACTONE D","NSC-266494|Simalikalactone D","Small molecule",0,478.54,25
+"229","CHEMBL227128","DIHYDROISOTANSHINONE II","dihydroisotanshinone ii","Small molecule",0,278.31,3
+"230","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"231","CHEMBL3103570",NA,NA,"Small molecule",0,672.83,5
+"232","CHEMBL416","METHOXSALEN","8-METHOXSALEN|8-METHOXYPSORALEN|8-MOP|DELTASORALEN|MELADININE|METHOXSALEN|METOXALEN|Methoxsalen|NSC-45923|OXSORALEN-ULTRA|OXYPSORALEN|Oxsoralen|PUVALEN|PUVASORALEN-8|SM-88 COMPONENT METHOXSALEN|UVADEX|VITPSO|XANTHOTOXIN","Small molecule",4,216.19,250
+"233","CHEMBL251251","Rubiadin",NA,"Small molecule",0,254.24,6
+"234","CHEMBL3104849",NA,NA,"Small molecule",0,622.84,4
+"235","CHEMBL2252749","6-ALPHA-HYDROXYDEMETHYL-CRYPTOJAPONOL",NA,"Small molecule",0,332.44,7
+"236","CHEMBL1077964","POLYANTHININ","Polyanthinin","Small molecule",0,438.56,6
+"237","CHEMBL2087220",NA,NA,"Small molecule",0,304.34,4
+"238","CHEMBL1215463","MONASCIN","Monascin","Small molecule",0,358.43,5
+"239","CHEMBL312073","NEVADENSIN",NA,"Small molecule",0,344.32,6
+"240","CHEMBL464648",NA,NA,"Small molecule",0,424.71,9
+"241","CHEMBL464750","SANDWICENSIN","Sandwicensin","Small molecule",0,338.4,2
+"242","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"243","CHEMBL230589",NA,NA,"Small molecule",0,230.26,2
+"244","CHEMBL3264622",NA,NA,"Small molecule",0,302.33,1
+"245","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"246","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"247","CHEMBL608410","PINOBAKSIN","(2R,3R)-Pinobanksin|Pinobaksin","Small molecule",0,272.26,8
+"248","CHEMBL2047211","GUMMOSOSIDE A METHYL ESTER","gummososide A methyl ester","Small molecule",0,971.14,1
+"249","CHEMBL461985",NA,NA,"Small molecule",0,192.21,12
+"250","CHEMBL376338",NA,NA,"Small molecule",0,440.71,5
+"251","CHEMBL1778160","ISOPICROPODOPHYLLONE","Isopicropodophyllone","Small molecule",0,412.39,2
+"252","CHEMBL93355","KOPSININE","Kopsinine","Small molecule",0,338.45,1
+"253","CHEMBL2374350",NA,NA,"Small molecule",0,328.36,54
+"254","CHEMBL488748","MONOMARGINE","Monomargine","Small molecule",0,248.24,3
+"255","CHEMBL522181","POLYPODINE B",NA,"Small molecule",0,496.64,3
+"256","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"257","CHEMBL481642","TRICHOTHECOLONE","Trichothecolone","Small molecule",0,264.32,4
+"258","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"259","CHEMBL241609","OROBOL","Orobol","Small molecule",0,286.24,11
+"260","CHEMBL225111","LANOSTEROL","Lanostereol","Small molecule",0,426.73,18
+"261","CHEMBL490212","VERNOFLEXUOSIDE","Vernoflexuoside","Small molecule",0,408.45,1
+"262","CHEMBL137803","ISOALANTOLACTONE","Iso-Alantolacton|Isoalantolactone","Small molecule",0,232.32,26
+"263","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"264","CHEMBL451622","SQUAFOSACIN C","squafosacin C","Small molecule",0,580.89,5
+"265","CHEMBL459267",NA,"6-Methoxy-Tremetone","Small molecule",0,232.28,8
+"266","CHEMBL376915",NA,NA,"Small molecule",0,340.38,15
+"267","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"268","CHEMBL464470","PLUMIERIDE","Plumieride","Small molecule",0,470.43,5
+"269","CHEMBL1288124",NA,NA,"Small molecule",0,346.42,4
+"270","CHEMBL2178593",NA,NA,"Small molecule",0,308.46,7
+"271","CHEMBL3261680",NA,NA,"Small molecule",0,560.73,3
+"272","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"273","CHEMBL2180483","CONCHITRIOL","Conchitriol","Small molecule",0,320.47,5
+"274","CHEMBL1076209","CRATOXYXANTHONE","Cratoxyxanthone","Small molecule",0,834.92,3
+"275","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"276","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"277","CHEMBL511568","LUDONGNIN G","Ludongnin G","Small molecule",0,362.47,6
+"278","CHEMBL1967006",NA,NA,"Small molecule",0,629.15,48
+"279","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"280","CHEMBL480848","MARCANINE D","Marcanine D","Small molecule",0,285.25,5
+"281","CHEMBL483414","PYRAMIDATINE","Pyramidatine","Small molecule",0,322.41,8
+"282","CHEMBL3358070",NA,NA,"Small molecule",0,326.44,2
+"283","CHEMBL446008","MOLLUGIN","Mollugin","Small molecule",0,284.31,5
+"284","CHEMBL74898","AYANIN","Ayanin","Small molecule",0,344.32,75
+"285","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"286","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"287","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"288","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"289","CHEMBL1795469","CANDIDUSIN C","Candidusin C","Small molecule",0,366.37,4
+"290","CHEMBL1985317",NA,NA,"Small molecule",0,202.25,58
+"291","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"292","CHEMBL500276","MONTACIN","Montacin","Small molecule",0,610.87,9
+"293","CHEMBL451707",NA,"5,7,8,3',4'-Pentamethoxyflavone","Small molecule",0,372.37,3
+"294","CHEMBL508269","SYLVISIDE","sylviside","Small molecule",0,608.68,1
+"295","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"296","CHEMBL461082",NA,NA,"Small molecule",0,262.35,61
+"297","CHEMBL511805","ALPHITOLIC ACID","Alphitolic Acid","Small molecule",0,472.71,19
+"298","CHEMBL480648","BRITANNILACTONE","Britannilactone","Small molecule",0,266.34,4
+"299","CHEMBL2368547","Sennoside A","Sennoside A","Small molecule",0,862.75,12
+"300","CHEMBL1271052","ROTUNDIC ACID","Rotundic Acid","Small molecule",0,488.71,13
+"301","CHEMBL164660","PSORALEN","FICUSIN|NSC-404562|PSORALEN","Small molecule",1,186.17,55
+"302","CHEMBL462801","Rapanone",NA,"Small molecule",0,322.45,14
+"303","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"304","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"305","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"306","CHEMBL3358622",NA,NA,"Small molecule",0,234.25,4
+"307","CHEMBL3613753",NA,NA,"Small molecule",0,302.41,7
+"308","CHEMBL510031",NA,"F-gitonin","Small molecule",0,1051.18,52
+"309","CHEMBL445435","STAMINOL D","staminol D","Small molecule",0,568.62,1
+"310","CHEMBL2002847",NA,NA,"Small molecule",0,341.41,55
+"311","CHEMBL363535","TANSHINONE I","Tanshinone I","Small molecule",0,276.29,70
+"312","CHEMBL400360","BRANDISIANIN D","Brandisianin D","Small molecule",0,412.39,2
+"313","CHEMBL3262774",NA,NA,"Small molecule",0,614.55,4
+"314","CHEMBL223256","NYMPHAEOL A",NA,"Small molecule",0,424.49,34
+"315","CHEMBL1098920","(+)-9'-ISOVALEROXYLARICIRESINOL","(+)-9'-Isovaleroxylariciresinol","Small molecule",0,444.52,6
+"316","CHEMBL465808","ATALANTOFLAVONE","Atalantoflavone","Small molecule",0,336.34,14
+"317","CHEMBL463246","ALPHA-CONIDENDRIN","Alpha-Conidendrin","Small molecule",0,356.37,8
+"318","CHEMBL77695",NA,"NSC-53907","Small molecule",0,328.32,63
+"319","CHEMBL370963",NA,"5,6,7,3',4',5'-Hexamethoxy Flavone|5,6,7,3',4',5'-Hexamethoxyflavone","Small molecule",0,402.4,11
+"320","CHEMBL3594169",NA,NA,"Small molecule",0,794.98,1
+"321","CHEMBL67945",NA,NA,"Small molecule",0,596.89,75
+"322","CHEMBL1163760",NA,NA,"Small molecule",0,272.3,11
+"323","CHEMBL253038",NA,"(3S)-Vestitone","Small molecule",0,286.28,5
+"324","CHEMBL1784243",NA,NA,"Small molecule",0,416.69,3
+"325","CHEMBL220528",NA,NA,"Small molecule",0,304.47,2
+"326","CHEMBL286796","ETHYL FERULATE","Ethyl Ferulate","Small molecule",0,222.24,25
+"327","CHEMBL511810","ISOMAMMEISIN","Isomammeisin","Small molecule",0,406.48,7
+"328","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"329","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"330","CHEMBL467620",NA,NA,"Small molecule",0,278.3,2
+"331","CHEMBL519725","SCABROLIDE E","Scabrolide E","Small molecule",0,348.4,2
+"332","CHEMBL1689795","CLAURAILAS A","Claurailas A","Small molecule",0,255.27,3
+"333","CHEMBL1795465",NA,"3-Hydroxyterphenyllin","Small molecule",0,354.36,8
+"334","CHEMBL3138641",NA,NA,"Small molecule",0,410.69,2
+"335","CHEMBL108862","CHAVICOL","4-Allyl-Phenol","Small molecule",0,134.18,4
+"336","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"337","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"338","CHEMBL2023572",NA,NA,"Small molecule",0,682.8,5
+"339","CHEMBL3799137",NA,NA,"Small molecule",0,286.46,4
+"340","CHEMBL463711",NA,NA,"Small molecule",0,272.3,6
+"341","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"342","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"343","CHEMBL248564","CORONOPILIN","Coronopilin","Small molecule",0,264.32,70
+"344","CHEMBL463089","ARTONOL A",NA,"Small molecule",0,352.39,5
+"345","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"346","CHEMBL576066","DIHYDROMETHYSTICIN","(+)-Dihydromethysticin|Dihydromethysticin","Small molecule",0,276.29,11
+"347","CHEMBL608410","PINOBAKSIN","(2R,3R)-Pinobanksin|Pinobaksin","Small molecule",0,272.26,8
+"348","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"349","CHEMBL225315","CABRALELACTONE","Cabralelactone","Small molecule",0,414.63,10
+"350","CHEMBL1923076",NA,NA,"Small molecule",0,448.42,3
+"351","CHEMBL463045","JABOROSALACTONE 1","Jaborosalactone 1|Jaborosalactone1","Small molecule",0,464.56,8
+"352","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"353","CHEMBL596221",NA,"5,7,8-Trimethoxycoumarin","Small molecule",0,236.22,7
+"354","CHEMBL1077080",NA,NA,"Small molecule",0,580.58,10
+"355","CHEMBL1976532",NA,NA,"Small molecule",0,326.3,55
+"356","CHEMBL222475","PSEUDOLARIC ACID G","Pseudolaric Acid G","Small molecule",0,404.46,3
+"357","CHEMBL78010","PECTOLINARIGENIN","NSC-106403","Small molecule",0,314.29,61
+"358","CHEMBL226512","GARDENIN B",NA,"Small molecule",0,358.35,80
+"359","CHEMBL508992","TOXICAROL","Alpha-Toxicarol|Toxicarol","Small molecule",0,410.42,12
+"360","CHEMBL1795469","CANDIDUSIN C","Candidusin C","Small molecule",0,366.37,4
+"361","CHEMBL480306",NA,"3-O-Acetylerythrodiol","Small molecule",0,484.77,2
+"362","CHEMBL483825",NA,"(-)-Roemerine","Small molecule",0,279.34,22
+"363","CHEMBL254751",NA,NA,"Small molecule",0,474.73,2
+"364","CHEMBL488203","INTEGERRIMINE","Integerrimine","Small molecule",0,335.4,8
+"365","CHEMBL72637","CIRSILIOL","Cirsiliol","Small molecule",0,330.29,16
+"366","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"367","CHEMBL123","ELLIPTECINE","Ellipticine|TCMDC-125546","Small molecule",0,246.31,283
+"368","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"369","CHEMBL517598","ANGUSTIFOLIN","Angustifolin","Small molecule",0,376.45,1
+"370","CHEMBL1081586",NA,"7-Epi-Loganin|8-Epiloganin","Small molecule",0,390.39,6
+"371","CHEMBL522923","MONOCARPINE","Monocarpine","Small molecule",0,468.72,1
+"372","CHEMBL447335","STIGMASTEROL GLUCOSIDE","Stigmasterol glucoside","Small molecule",0,574.84,9
+"373","CHEMBL1974890","CEDROL","Cedrol","Small molecule",0,222.37,73
+"374","CHEMBL2002400",NA,NA,"Small molecule",0,518.57,52
+"375","CHEMBL463915",NA,"10'(Z)-Heptadecenylhydroquinone","Small molecule",0,346.56,10
+"376","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"377","CHEMBL1939839",NA,"NSC-112922","Small molecule",0,240.26,61
+"378","CHEMBL2391699","PREVITEXILACTONE",NA,"Small molecule",0,378.51,4
+"379","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"380","CHEMBL1079532","SCULPONEATIN B",NA,"Small molecule",0,362.42,9
+"381","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"382","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"383","CHEMBL446743","KHASIANINE","Khasianine","Small molecule",0,721.93,2
+"384","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"385","CHEMBL446008","MOLLUGIN","Mollugin","Small molecule",0,284.31,5
+"386","CHEMBL434750","ERGOSTEROL PEROXIDE","Ergosterol Peroxide","Small molecule",0,428.66,26
+"387","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"388","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"389","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"390","CHEMBL518008",NA,NA,"Small molecule",0,248.32,3
+"391","CHEMBL519472",NA,"N-Methylsolasodine","Small molecule",0,427.67,2
+"392","CHEMBL504190","PANCIBIFLAVONOL","Pancibiflavonol","Small molecule",0,572.48,2
+"393","CHEMBL1086904",NA,NA,"Small molecule",0,244.38,1
+"394","CHEMBL1834672","ATHROLIDE B","Athrolide B","Small molecule",0,394.46,2
+"395","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"396","CHEMBL1923077",NA,NA,"Small molecule",0,478.45,5
+"397","CHEMBL493646","CUCURBITACIN D","Cucurbitacin D","Small molecule",0,516.68,70
+"398","CHEMBL519725","SCABROLIDE E","Scabrolide E","Small molecule",0,348.4,2
+"399","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"400","CHEMBL1956942",NA,NA,"Small molecule",0,238.37,4
+"401","CHEMBL476885","GELSEDINE","Gelsedine","Small molecule",0,328.41,3
+"402","CHEMBL457606",NA,"(+)-Hippeastrine","Small molecule",0,315.33,13
+"403","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"404","CHEMBL295602","METHYL BETULINATE","Methyl betulinate|betulinic acid methylester","Small molecule",0,470.74,72
+"405","CHEMBL226588",NA,"N-Trans-Feruloylmethoxytyramine","Small molecule",0,343.38,8
+"406","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"407","CHEMBL398325","TYLOPHORININE","Tylophorinine","Small molecule",0,379.46,63
+"408","CHEMBL1928000","CLETHROIDOSIDE F","clethroidoside F","Small molecule",0,1163.31,5
+"409","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"410","CHEMBL459405","EPIGRANDISIN","Epigrandisin","Small molecule",0,432.51,5
+"411","CHEMBL448122","ARBORINE","Arborine","Small molecule",0,250.3,2
+"412","CHEMBL1987496",NA,NA,"Small molecule",0,244.21,56
+"413","CHEMBL1087385","MELODININE E","Melodinine E","Small molecule",0,308.38,4
+"414","CHEMBL2419286",NA,NA,"Small molecule",0,654.93,5
+"415","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"416","CHEMBL513300","DEOXYNIVALENOL","Deoxynivalenol","Small molecule",0,296.32,7
+"417","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"418","CHEMBL1099266","VILLOSIN","villosin","Small molecule",0,300.44,2
+"419","CHEMBL249657",NA,NA,"Small molecule",0,422.47,1
+"420","CHEMBL390616","DEHYDROAPATELINE","Dehydroapateline","Small molecule",0,546.62,5
+"421","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"422","CHEMBL553342",NA,"NSC-676836","Small molecule",0,536.62,60
+"423","CHEMBL1801926","PENIPANOID A","Penipanoid A","Small molecule",0,295.3,8
+"424","CHEMBL1081586",NA,"7-Epi-Loganin|8-Epiloganin","Small molecule",0,390.39,6
+"425","CHEMBL449632",NA,NA,"Small molecule",0,364.44,5
+"426","CHEMBL1998369",NA,NA,"Small molecule",0,360.32,62
+"427","CHEMBL1652221","AMIJIOL","Amijiol","Small molecule",0,304.47,7
+"428","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"429","CHEMBL497527",NA,NA,"Small molecule",0,430.67,6
+"430","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"431","CHEMBL464449","NELUMOL A","Geranyloxy Sinapyl Alcohol|Nelumol A","Small molecule",0,346.47,19
+"432","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"433","CHEMBL1081584","LOGANIN","Loganin","Small molecule",0,390.39,15
+"434","CHEMBL472851","SKYRIN","Skyrin","Small molecule",0,538.46,79
+"435","CHEMBL317221",NA,NA,"Small molecule",0,270.28,6
+"436","CHEMBL2047207","PACHANOSIDE I1","pachanoside I1","Small molecule",0,983.11,1
+"437","CHEMBL484529","ISODESACETYLUVARICIN","Isodesacetyluvaricin","Small molecule",0,606.93,5
+"438","CHEMBL471270","5-O-METHYLEMBELIN","5-O-Methylembelin","Small molecule",0,308.42,13
+"439","CHEMBL1076911","DARUTIGENOL","Darutigenol","Small molecule",0,322.49,6
+"440","CHEMBL239077","TOMENTIC ACID","Tomentic Acid|Tormentic Acid","Small molecule",0,488.71,22
+"441","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"442","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"443","CHEMBL256448",NA,"(+)-1R-Cocluaurine|(R)-(+)-Coclaurine","Small molecule",0,285.34,5
+"444","CHEMBL448502",NA,NA,"Small molecule",0,204.36,8
+"445","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"446","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"447","CHEMBL514596","SOLASODINE","Solasodine","Small molecule",0,413.65,7
+"448","CHEMBL1172810","HAEMANTHAMINE","Haemanthamine","Small molecule",0,301.34,12
+"449","CHEMBL462953",NA,NA,"Small molecule",0,484.59,3
+"450","CHEMBL468876",NA,NA,"Small molecule",0,328.32,11
+"451","CHEMBL2335820",NA,"(+/-)-Quadrangularin A","Small molecule",0,454.48,4
+"452","CHEMBL401149","PARTHENIN","Parthenin","Small molecule",0,262.3,15
+"453","CHEMBL495858","KADSUPHILINS B",NA,"Small molecule",0,402.44,3
+"454","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"455","CHEMBL2374350",NA,NA,"Small molecule",0,328.36,54
+"456","CHEMBL458847",NA,NA,"Small molecule",0,314.29,3
+"457","CHEMBL388342","BOLDINE","(+)-Boldine|(S)-(+)-Boldine|Boldine","Small molecule",0,327.38,37
+"458","CHEMBL446299","NOOTKATONE","(+)-Nootkatone|Nootkatone","Small molecule",0,218.34,12
+"459","CHEMBL3760102",NA,NA,"Small molecule",0,286.42,1
+"460","CHEMBL398325","TYLOPHORININE","Tylophorinine","Small molecule",0,379.46,63
+"461","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"462","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"463","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"464","CHEMBL448636",NA,"8-Deoxylactucin","Small molecule",0,262.3,4
+"465","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"466","CHEMBL1077754",NA,"16Alpha-Hydroxyeburiconic Acid","Small molecule",0,484.72,4
+"467","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"468","CHEMBL3109464",NA,NA,"Small molecule",0,474.73,4
+"469","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"470","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"471","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"472","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"473","CHEMBL147741","3-FORMYLINDOLE","3-Formylindole|Indole-3-Carboxaldehyde","Small molecule",0,145.16,31
+"474","CHEMBL225700","ARTEMETIN","Artemetin|Artemisetin","Small molecule",0,388.37,21
+"475","CHEMBL400807",NA,NA,"Small molecule",0,414.63,5
+"476","CHEMBL1254431","GENTISIDE J","Gentiside J","Small molecule",0,462.72,1
+"477","CHEMBL374130","BONANNIONE A",NA,"Small molecule",0,408.49,29
+"478","CHEMBL74272",NA,NA,"Small molecule",0,374.35,61
+"479","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"480","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"481","CHEMBL1976863",NA,NA,"Small molecule",0,400.7,56
+"482","CHEMBL455056","CUCURBITACIN E","Cucurbitacin E","Small molecule",0,556.7,97
+"483","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"484","CHEMBL1223851",NA,NA,"Small molecule",0,328.32,3
+"485","CHEMBL1977780",NA,NA,"Small molecule",0,426.73,60
+"486","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"487","CHEMBL469628","GLOCHIDONE","Glochidone","Small molecule",0,422.7,18
+"488","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"489","CHEMBL402744",NA,"(2S)-7-Hydroxyflavanone","Small molecule",0,240.26,10
+"490","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"491","CHEMBL448515","2,6-DIMETHOXYQUINONE","NSC-56336","Small molecule",0,168.15,96
+"492","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"493","CHEMBL92735","CALANOLIDE E2","Calanolide E2","Small molecule",0,388.46,3
+"494","CHEMBL470029","OLEANONIC ACID","Oleanonic Acid","Small molecule",0,454.7,32
+"495","CHEMBL306472",NA,NA,"Small molecule",0,246.31,12
+"496","CHEMBL21745","TECTOQUINONE","2-Methyl-Anthraquinone|2-Methylanthraquinone","Small molecule",0,222.24,14
+"497","CHEMBL416","METHOXSALEN","8-METHOXSALEN|8-METHOXYPSORALEN|8-MOP|DELTASORALEN|MELADININE|METHOXSALEN|METOXALEN|Methoxsalen|NSC-45923|OXSORALEN-ULTRA|OXYPSORALEN|Oxsoralen|PUVALEN|PUVASORALEN-8|SM-88 COMPONENT METHOXSALEN|UVADEX|VITPSO|XANTHOTOXIN","Small molecule",4,216.19,250
+"498","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"499","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"500","CHEMBL486599",NA,NA,"Small molecule",0,258.23,3
+"501","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"502","CHEMBL522923","MONOCARPINE","Monocarpine","Small molecule",0,468.72,1
+"503","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"504","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"505","CHEMBL464648",NA,NA,"Small molecule",0,424.71,9
+"506","CHEMBL220527","DEHYDRODISCRETINE","Dehydrodiscretine","Small molecule",0,338.38,3
+"507","CHEMBL2407705",NA,NA,"Small molecule",0,224.3,5
+"508","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"509","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"510","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"511","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"512","CHEMBL1940084",NA,"(+)-tuberiferin","Small molecule",0,246.31,5
+"513","CHEMBL1644378","COMPLANADINE E","Complanadine E","Small molecule",0,488.76,1
+"514","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"515","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"516","CHEMBL388342","BOLDINE","(+)-Boldine|(S)-(+)-Boldine|Boldine","Small molecule",0,327.38,37
+"517","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"518","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"519","CHEMBL1223852",NA,"Alpha-Tocopherylquinone","Small molecule",0,446.72,27
+"520","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"521","CHEMBL596221",NA,"5,7,8-Trimethoxycoumarin","Small molecule",0,236.22,7
+"522","CHEMBL1086681",NA,"(-)-Rhododendrol","Small molecule",0,166.22,1
+"523","CHEMBL2298951","SITOSTERYL ACETATE",NA,"Small molecule",0,456.76,4
+"524","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"525","CHEMBL468383","NERVONIN B","nervonin B","Small molecule",0,492.57,3
+"526","CHEMBL2036658",NA,"3Alpha-Hydroxymasticadienonic Acid","Small molecule",0,456.71,4
+"527","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"528","CHEMBL1998369",NA,NA,"Small molecule",0,360.32,62
+"529","CHEMBL1795465",NA,"3-Hydroxyterphenyllin","Small molecule",0,354.36,8
+"530","CHEMBL458847",NA,NA,"Small molecule",0,314.29,3
+"531","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"532","CHEMBL388529","GUTTIFERONE K","Guttiferone K","Small molecule",0,602.81,11
+"533","CHEMBL1164562",NA,NA,"Small molecule",0,310.44,6
+"534","CHEMBL1974890","CEDROL","Cedrol","Small molecule",0,222.37,73
+"535","CHEMBL1077477","CASEOBLIQUIN A",NA,"Small molecule",0,596.67,4
+"536","CHEMBL518262","ERYTHRALINE","Erythraline","Small molecule",0,297.35,1
+"537","CHEMBL1099162","ARTOBILOXANTHONE","Artobiloxanthone","Small molecule",0,434.44,4
+"538","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"539","CHEMBL1998369",NA,NA,"Small molecule",0,360.32,62
+"540","CHEMBL1077147","MUKONAL","Mukonal","Small molecule",0,211.22,8
+"541","CHEMBL1765391",NA,"(-)-Morellic Acid","Small molecule",0,560.64,1
+"542","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"543","CHEMBL224481","CABRALEONE","Cabraleone","Small molecule",0,458.73,11
+"544","CHEMBL521035","MONOCROTALINE","Monocrotaline","Small molecule",0,325.36,31
+"545","CHEMBL2437088","MANGLEXANTHONE",NA,"Small molecule",0,408.45,1
+"546","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"547","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"548","CHEMBL224481","CABRALEONE","Cabraleone","Small molecule",0,458.73,11
+"549","CHEMBL3104849",NA,NA,"Small molecule",0,622.84,4
+"550","CHEMBL376835",NA,NA,"Small molecule",0,438.74,3
+"551","CHEMBL451720",NA,"Cis-N-Feruloyltyramine|N-Cis-Feruloyl Tyramine","Small molecule",0,313.35,9
+"552","CHEMBL273019","BERGENIN","BERGENIN|BERGENINUM|NSC-661749|NSC-757796|YANBAICAISU","Small molecule",0,328.27,39
+"553","CHEMBL527025",NA,"Beta-Lumicolchicine","Small molecule",0,399.44,12
+"554","CHEMBL3105009",NA,NA,"Small molecule",0,468.63,3
+"555","CHEMBL1928000","CLETHROIDOSIDE F","clethroidoside F","Small molecule",0,1163.31,5
+"556","CHEMBL1079531","SCULPONEATIN A",NA,"Small molecule",0,360.41,8
+"557","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"558","CHEMBL470658","CHITRANONE","Chitranone","Small molecule",0,374.35,13
+"559","CHEMBL376350",NA,"24-Methylenecycloartanol","Small molecule",0,440.76,4
+"560","CHEMBL89905","4'-DEMETHYLDEOXYPODOPHYLLOTOXIN","4'-Demethyldeoxypodophyllotoxin|4-Demethyl-Deoxypodophyllotoxin","Small molecule",0,384.38,34
+"561","CHEMBL565010","NIGROLINEAXANTHONE T","Nigrolineaxanthone T","Small molecule",0,360.36,7
+"562","CHEMBL464723","TENACISSIMOSIDE A",NA,"Small molecule",0,792.96,4
+"563","CHEMBL311226","CASTANOSPERMINE","CASTANOSPERMINE|NSC-625381","Small molecule",0,189.21,78
+"564","CHEMBL3600946",NA,NA,"Small molecule",0,322.49,6
+"565","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"566","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"567","CHEMBL556429",NA,NA,"Small molecule",0,354.4,3
+"568","CHEMBL230589",NA,NA,"Small molecule",0,230.26,2
+"569","CHEMBL2011539","PLUVIATILOL","Pluviatilol","Small molecule",0,356.37,5
+"570","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"571","CHEMBL2385624","PISIFERAL",NA,"Small molecule",0,300.44,5
+"572","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"573","CHEMBL448283",NA,NA,"Small molecule",0,233.06,2
+"574","CHEMBL506880","HEDERASAPONIN B",NA,"Small molecule",0,1205.39,9
+"575","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"576","CHEMBL1079679","GARDENOSIDE","Gardenoside","Small molecule",0,404.37,3
+"577","CHEMBL1164447","HYPTASIENIC ACID","Hyptasienic Acid","Small molecule",0,470.69,5
+"578","CHEMBL250872","SYRINGIN","Syringin","Small molecule",0,372.37,20
+"579","CHEMBL1098920","(+)-9'-ISOVALEROXYLARICIRESINOL","(+)-9'-Isovaleroxylariciresinol","Small molecule",0,444.52,6
+"580","CHEMBL564527",NA,NA,"Small molecule",0,482.53,7
+"581","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"582","CHEMBL226512","GARDENIN B",NA,"Small molecule",0,358.35,80
+"583","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"584","CHEMBL416","METHOXSALEN","8-METHOXSALEN|8-METHOXYPSORALEN|8-MOP|DELTASORALEN|MELADININE|METHOXSALEN|METOXALEN|Methoxsalen|NSC-45923|OXSORALEN-ULTRA|OXYPSORALEN|Oxsoralen|PUVALEN|PUVASORALEN-8|SM-88 COMPONENT METHOXSALEN|UVADEX|VITPSO|XANTHOTOXIN","Small molecule",4,216.19,250
+"585","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"586","CHEMBL3298958",NA,NA,"Small molecule",0,702.66,5
+"587","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"588","CHEMBL240545","ROTENOLONE","12A-Hydroxyrotenone|Rotenolone","Small molecule",0,410.42,31
+"589","CHEMBL2152451","ISOPATRISCABROL","Isopatriscabrol","Small molecule",0,200.23,2
+"590","CHEMBL451622","SQUAFOSACIN C","squafosacin C","Small molecule",0,580.89,5
+"591","CHEMBL1939839",NA,"NSC-112922","Small molecule",0,240.26,61
+"592","CHEMBL1773906","COMOSUSOL B","Comosusol B","Small molecule",0,262.35,5
+"593","CHEMBL453876","MAMMEA A/AC",NA,"Small molecule",0,392.45,2
+"594","CHEMBL312073","NEVADENSIN",NA,"Small molecule",0,344.32,6
+"595","CHEMBL3590334",NA,NA,"Small molecule",0,350.46,1
+"596","CHEMBL448947","ORTHOSIPHOL G","Orthosiphol G","Small molecule",0,572.65,1
+"597","CHEMBL260673","METHYL URSOLATE","Methyl Ursolate|Ursolic Acid Methyl Ester","Small molecule",0,470.74,19
+"598","CHEMBL607537","5,6,7-TRIMETHOXYCOUMARIN","5,6,7-Trimethoxycoumarin","Small molecule",0,236.22,3
+"599","CHEMBL476885","GELSEDINE","Gelsedine","Small molecule",0,328.41,3
+"600","CHEMBL198075","CRYPTOPLEURINE","(-)-Cryptopleurine|Cryptopleurine|R-Cryptopleurine","Small molecule",0,377.48,96
+"601","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"602","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"603","CHEMBL490350",NA,NA,"Small molecule",0,474.46,2
+"604","CHEMBL518300","COMBRETOL","Combretol","Small molecule",0,388.37,1
+"605","CHEMBL513639",NA,NA,"Small molecule",0,1477.9,53
+"606","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"607","CHEMBL197308","FERRUGINOL","Ferruginol","Small molecule",0,286.46,51
+"608","CHEMBL105310","2',4'-DIHYDROXYCHALCONE","(E)-2',4'-Dihydroxychalcone|2',4'-Dihydroxychalcone","Small molecule",0,240.26,60
+"609","CHEMBL465442",NA,"(+/-)-nicolaioidesin A","Small molecule",0,406.52,2
+"610","CHEMBL463108",NA,"5-O-Ethylembelin","Small molecule",0,322.44,4
+"611","CHEMBL520592",NA,NA,"Small molecule",0,350.5,1
+"612","CHEMBL525241","PROSAPOGENIN 11","prosapogenin 11","Small molecule",0,1828.01,1
+"613","CHEMBL1080487",NA,"Delta-Cotonefuran","Small molecule",0,260.24,4
+"614","CHEMBL2335820",NA,"(+/-)-Quadrangularin A","Small molecule",0,454.48,4
+"615","CHEMBL519220",NA,NA,"Small molecule",0,396.39,3
+"616","CHEMBL448515","2,6-DIMETHOXYQUINONE","NSC-56336","Small molecule",0,168.15,96
+"617","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"618","CHEMBL486405","VISMIONE B",NA,"Small molecule",0,354.4,6
+"619","CHEMBL447696","DIBROMOPHAKELLIN","(+/-)-Dibromophakellin|(-)-Dibromophakellin|Dibromophakellin","Small molecule",0,389.05,8
+"620","CHEMBL185","FLUOROURACIL","5 FU|5-FLUORURACIL|5-FU|5-Fluorouracil|5.F.U.|ACCUSITE|ACTIKERALL|Adrucil|Carac|EFUDIX|Efudex|FLUORO-URACIL ROCHE|FLUOROURACIL|FLUOROURACILUM|FLUOROURICIL|FLURACIL|Fluoroplex|NSC-19893|PHTHORURACIL|QUEROPLEX|RO 2-9757|RO-2-9757|RO-29757|TOLAK","Small molecule",4,130.08,485
+"621","CHEMBL1651079","FESELOL","Feselol","Small molecule",0,382.5,7
+"622","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"623","CHEMBL267099","TUBERCIDIN","Tubercidin","Small molecule",0,266.26,81
+"624","CHEMBL422681",NA,NA,"Small molecule",0,438.47,1
+"625","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"626","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"627","CHEMBL1651114","ARGUTIN C","Argutin C","Small molecule",0,600.75,1
+"628","CHEMBL21745","TECTOQUINONE","2-Methyl-Anthraquinone|2-Methylanthraquinone","Small molecule",0,222.24,14
+"629","CHEMBL225754","CYCLOEUCALENONE","Cycloeucalenone","Small molecule",0,424.71,3
+"630","CHEMBL1812481","EUPHOSALICIN","Euphosalicin","Small molecule",0,820.85,4
+"631","CHEMBL527025",NA,"Beta-Lumicolchicine","Small molecule",0,399.44,12
+"632","CHEMBL164660","PSORALEN","FICUSIN|NSC-404562|PSORALEN","Small molecule",1,186.17,55
+"633","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"634","CHEMBL2297225",NA,NA,"Small molecule",0,268.22,4
+"635","CHEMBL53566","TYROSOL","tyrosol","Small molecule",0,138.17,33
+"636","CHEMBL470658","CHITRANONE","Chitranone","Small molecule",0,374.35,13
+"637","CHEMBL507323","HALIGRAMIDE A",NA,"Small molecule",0,784.04,4
+"638","CHEMBL509005","ORTHOSIPHOL U","Orthosiphol U","Small molecule",0,614.69,1
+"639","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"640","CHEMBL3677268",NA,NA,"Small molecule",0,294.48,1
+"641","CHEMBL1989993",NA,NA,"Small molecule",0,500.59,58
+"642","CHEMBL1958070",NA,NA,"Small molecule",0,377.48,10
+"643","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"644","CHEMBL508537","ISOSECOTANAPARTHOLIDE","Isosecotanapartholide","Small molecule",0,278.3,1
+"645","CHEMBL25080","DL-PHENYLALANINE",NA,"Small molecule",0,165.19,59
+"646","CHEMBL393222","WIGHTEONE","Wighteone","Small molecule",0,338.36,23
+"647","CHEMBL251251","Rubiadin",NA,"Small molecule",0,254.24,6
+"648","CHEMBL2011539","PLUVIATILOL","Pluviatilol","Small molecule",0,356.37,5
+"649","CHEMBL1987496",NA,NA,"Small molecule",0,244.21,56
+"650","CHEMBL164660","PSORALEN","FICUSIN|NSC-404562|PSORALEN","Small molecule",1,186.17,55
+"651","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"652","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"653","CHEMBL515639",NA,"(-)-Phanostenine","Small molecule",0,325.36,10
+"654","CHEMBL461207","NOTOAMIDE F","Notoamide F","Small molecule",0,461.56,1
+"655","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"656","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"657","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"658","CHEMBL1644112",NA,"8Alpha,15-Dihydroxy-13Elabdene","Small molecule",0,308.51,63
+"659","CHEMBL483526",NA,"Alternariol 5-O-Methyl Ether","Small molecule",0,272.26,42
+"660","CHEMBL1998453",NA,NA,"Small molecule",0,358.39,57
+"661","CHEMBL458847",NA,NA,"Small molecule",0,314.29,3
+"662","CHEMBL538942",NA,NA,"Small molecule",0,604.83,1
+"663","CHEMBL460448","GARCINISIDONE A","Garcinisidone A","Small molecule",0,426.47,2
+"664","CHEMBL464443","GONIOTHALAMIN","(R)-(+)-Goniothalamin|(R)-Goniothalamin|Goniothalamin","Small molecule",0,200.24,31
+"665","CHEMBL483843","CHRYSOSPLENOL E","Chrysosplenol E","Small molecule",0,374.35,1
+"666","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"667","CHEMBL292945",NA,"5-Methoxy Podophyllotoxin|5-Methoxypodophyllotoxin","Small molecule",0,444.44,5
+"668","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"669","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"670","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"671","CHEMBL1985317",NA,NA,"Small molecule",0,202.25,58
+"672","CHEMBL312862","DEMECOLCINE","C-12669|COLCHAMINE|DEACETYL-N-METHYLCOLCHICINE|DEMECOLCINE|NSC-3096|SUBSTANCE F","Small molecule",0,371.43,34
+"673","CHEMBL3264622",NA,NA,"Small molecule",0,302.33,1
+"674","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"675","CHEMBL252642","LIQUIRTIGENIN","(2S)-Liquiritigenin|4',7-Dihydroxyflavanone|7,4'-Dihydroxyflavanone|Liquiritigenin|Liquirtigenin","Small molecule",0,256.26,47
+"676","CHEMBL462803","CRASSOLIDE A",NA,"Small molecule",0,392.49,4
+"677","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"678","CHEMBL3353861",NA,NA,"Small molecule",0,470.69,4
+"679","CHEMBL1086907",NA,NA,"Small molecule",0,520.53,2
+"680","CHEMBL254129","CYCLOPAMINE","Cyclopamine|[3H]-Cyclopamine","Small molecule",0,411.63,382
+"681","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"682","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"683","CHEMBL444717","CRATOXYARBORENONE F","cratoxyarborenone F","Small molecule",0,258.23,1
+"684","CHEMBL452201",NA,"(-)-Xylopine","Small molecule",0,295.34,10
+"685","CHEMBL225870",NA,NA,"Small molecule",0,442.73,9
+"686","CHEMBL464360","EMODIN 8-O-BETA-D-GLUCOPYRANOSIDE","Emodin 8-glucoside","Small molecule",0,432.38,5
+"687","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"688","CHEMBL227892",NA,NA,"Small molecule",0,482.57,2
+"689","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"690","CHEMBL487609",NA,NA,"Small molecule",0,482.75,2
+"691","CHEMBL449194","ALTERSOLANOL J",NA,"Small molecule",0,308.33,5
+"692","CHEMBL1915218",NA,"8-Hydroxydroserone","Small molecule",0,220.18,5
+"693","CHEMBL513197","SANDARACOPIMARIC ACID","Sandaracopimaric Acid","Small molecule",0,302.46,11
+"694","CHEMBL376169","ELAEODENDROSIDE G","Elaeodendroside G","Small molecule",0,574.67,5
+"695","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"696","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"697","CHEMBL519455","PULIOPLOPANONE A",NA,"Small molecule",0,236.35,1
+"698","CHEMBL1233584","ISOLEUCINE","FEMA NO. 4675|ISOLEUCINE|L-ISOLEUCINE|NSC-46708","Small molecule",2,131.18,4
+"699","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"700","CHEMBL1081414","SHANZHISIDE METHYL ESTER","Shanzhiside Methyl Ester","Small molecule",0,406.38,6
+"701","CHEMBL464139","BRYOSIGENIN","bryosigenin","Small molecule",0,472.71,2
+"702","CHEMBL1976532",NA,NA,"Small molecule",0,326.3,55
+"703","CHEMBL2011665","TETRAHYDROALTERSOLANOL B","Tetrahydroaltersolanol B","Small molecule",0,308.33,13
+"704","CHEMBL1085428",NA,NA,"Small molecule",0,360.32,4
+"705","CHEMBL514923","CLEISTANTHIN","Cleistanthin","Small molecule",0,540.52,9
+"706","CHEMBL2368547","Sennoside A","Sennoside A","Small molecule",0,862.75,12
+"707","CHEMBL471889","TUBERCULATIN","Tuberculatin","Small molecule",0,512.47,8
+"708","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"709","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"710","CHEMBL469855","OPHIOBOLIN C","Ophiobolin C","Small molecule",0,386.58,1
+"711","CHEMBL73991","TERNATIN","Ternatin","Small molecule",0,374.35,75
+"712","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"713","CHEMBL1980160",NA,NA,"Small molecule",0,564.85,55
+"714","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"715","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"716","CHEMBL469284","BETULONE","Betulone","Small molecule",0,440.71,33
+"717","CHEMBL486058","WEISIENSIN A",NA,"Small molecule",0,492.57,3
+"718","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"719","CHEMBL1973570",NA,NA,"Small molecule",0,314.43,54
+"720","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"721","CHEMBL522850","LAXIFLORANONE","Laxifloranone","Small molecule",0,562.75,1
+"722","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"723","CHEMBL565010","NIGROLINEAXANTHONE T","Nigrolineaxanthone T","Small molecule",0,360.36,7
+"724","CHEMBL239075","EUSCAPHIC ACID","Euscaphic Acid","Small molecule",0,488.71,28
+"725","CHEMBL451919","Primin",NA,"Small molecule",0,208.26,8
+"726","CHEMBL448125",NA,NA,"Small molecule",0,204.36,1
+"727","CHEMBL1077058","CHISONIMBOLININ F","Chisonimbolinin F","Small molecule",0,584.71,7
+"728","CHEMBL113029",NA,NA,"Small molecule",0,258.27,8
+"729","CHEMBL1163136","MELODININE H","Melodinine H","Small molecule",0,614.83,5
+"730","CHEMBL1651108","SCHOLARICINE","Scholaricine","Small molecule",0,356.42,1
+"731","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"732","CHEMBL491709","SECAUBRYTRIOL","secaubrytriol","Small molecule",0,490.73,4
+"733","CHEMBL463692",NA,NA,"Small molecule",0,382.37,2
+"734","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"735","CHEMBL238845",NA,"(-)-Medicarpin","Small molecule",0,270.28,73
+"736","CHEMBL1215114","CIPADESIN Q","Cipadesin Q","Small molecule",0,530.61,5
+"737","CHEMBL463108",NA,"5-O-Ethylembelin","Small molecule",0,322.44,4
+"738","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"739","CHEMBL559945","BETA-IONONE","Beta-Ionone","Small molecule",0,192.3,13
+"740","CHEMBL2011538",NA,NA,"Small molecule",0,386.4,5
+"741","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"742","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"743","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"744","CHEMBL218924","SUBAMOLIDE A",NA,"Small molecule",0,340.5,3
+"745","CHEMBL1774403",NA,NA,"Small molecule",0,466.57,4
+"746","CHEMBL455252",NA,NA,"Small molecule",0,1219.37,2
+"747","CHEMBL561908","ANISLACTONE B","Anislactone B","Small molecule",0,296.32,1
+"748","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"749","CHEMBL2409234",NA,NA,"Small molecule",0,358.35,6
+"750","CHEMBL3581358",NA,NA,"Small molecule",0,370.4,1
+"751","CHEMBL486589",NA,NA,"Small molecule",0,506.55,4
+"752","CHEMBL447142",NA,"3beta-O-palmityl longispinogenin","Small molecule",0,697.14,4
+"753","CHEMBL451919","Primin",NA,"Small molecule",0,208.26,8
+"754","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"755","CHEMBL517778","ERYSOVINE","Erysovine","Small molecule",0,299.37,1
+"756","CHEMBL519331",NA,"NSC-76988","Small molecule",0,286.24,3
+"757","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"758","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"759","CHEMBL445227",NA,NA,"Small molecule",0,1049.17,2
+"760","CHEMBL452675",NA,NA,"Small molecule",0,300.27,2
+"761","CHEMBL1782125","RAMONANIN A","Ramonanin A","Small molecule",0,680.75,1
+"762","CHEMBL1801765",NA,"11-Methoxysampangine","Small molecule",0,262.27,2
+"763","CHEMBL497527",NA,NA,"Small molecule",0,430.67,6
+"764","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"765","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"766","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"767","CHEMBL509005","ORTHOSIPHOL U","Orthosiphol U","Small molecule",0,614.69,1
+"768","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"769","CHEMBL3039103","RHODOCLADONIC ACID",NA,"Small molecule",0,318.24,3
+"770","CHEMBL136356","HELENINE","Alantolactone|Eupatal|Helenine","Small molecule",0,232.32,80
+"771","CHEMBL1765392","TRIGONOSIN A","Trigonosin A","Small molecule",0,590.67,3
+"772","CHEMBL1927326","CLAUSZOLINE K","Clauszoline K|Clauszoline-K","Small molecule",0,225.25,9
+"773","CHEMBL470462",NA,"3-Epi-Taraxerol","Small molecule",0,426.73,1
+"774","CHEMBL1985317",NA,NA,"Small molecule",0,202.25,58
+"775","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"776","CHEMBL3290508",NA,NA,"Small molecule",0,342.44,2
+"777","CHEMBL446743","KHASIANINE","Khasianine","Small molecule",0,721.93,2
+"778","CHEMBL123","ELLIPTECINE","Ellipticine|TCMDC-125546","Small molecule",0,246.31,283
+"779","CHEMBL513639",NA,NA,"Small molecule",0,1477.9,53
+"780","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"781","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"782","CHEMBL73991","TERNATIN","Ternatin","Small molecule",0,374.35,75
+"783","CHEMBL3593384",NA,NA,"Small molecule",0,248.32,3
+"784","CHEMBL472851","SKYRIN","Skyrin","Small molecule",0,538.46,79
+"785","CHEMBL470654","SARCRASSIN E","Sarcrassin E","Small molecule",0,360.45,4
+"786","CHEMBL448502",NA,NA,"Small molecule",0,204.36,8
+"787","CHEMBL503938","EUPARIN","Euparin","Small molecule",0,216.24,28
+"788","CHEMBL1223741","CRYPTOCHINONE B",NA,"Small molecule",0,300.31,6
+"789","CHEMBL1967731",NA,NA,"Small molecule",0,147.13,58
+"790","CHEMBL1256416","APLYSIATOXIN","Aplysiatoxin","Small molecule",0,671.62,10
+"791","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"792","CHEMBL253465","DIHYDROOROXYLIN A",NA,"Small molecule",0,286.28,16
+"793","CHEMBL560627",NA,NA,"Small molecule",0,242.27,8
+"794","CHEMBL3264622",NA,NA,"Small molecule",0,302.33,1
+"795","CHEMBL509065","CONOCURVONE","Conocurvone","Small molecule",0,953.1,4
+"796","CHEMBL478754",NA,"(-)-Dicentrine","Small molecule",0,339.39,92
+"797","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"798","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"799","CHEMBL467981",NA,NA,"Small molecule",0,458.73,6
+"800","CHEMBL520114","ACETYL NEOBRITANNILACTONE B",NA,"Small molecule",0,290.36,4
+"801","CHEMBL462716","CRATOXYARBORENONE E","cratoxyarborenone E","Small molecule",0,410.47,1
+"802","CHEMBL462801","Rapanone",NA,"Small molecule",0,322.45,14
+"803","CHEMBL2011540","PIPERITOL","Piperitol","Small molecule",0,356.37,7
+"804","CHEMBL1801972","PARAVALLARINE","Paravallarine","Small molecule",0,343.51,1
+"805","CHEMBL1094364","JABOROSALACTOL 24","Jaborosalactol 24","Small molecule",0,502.6,5
+"806","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"807","CHEMBL1939839",NA,"NSC-112922","Small molecule",0,240.26,61
+"808","CHEMBL273019","BERGENIN","BERGENIN|BERGENINUM|NSC-661749|NSC-757796|YANBAICAISU","Small molecule",0,328.27,39
+"809","CHEMBL451983","ENCECALIN","Encecalin","Small molecule",0,232.28,17
+"810","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"811","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"812","CHEMBL2002847",NA,NA,"Small molecule",0,341.41,55
+"813","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"814","CHEMBL3039091","OBLIQUIN",NA,"Small molecule",0,244.25,2
+"815","CHEMBL514923","CLEISTANTHIN","Cleistanthin","Small molecule",0,540.52,9
+"816","CHEMBL491693","MUNDULINOL","Mundulinol","Small molecule",0,406.48,9
+"817","CHEMBL2425666",NA,NA,"Small molecule",0,432.51,5
+"818","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"819","CHEMBL560627",NA,NA,"Small molecule",0,242.27,8
+"820","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"821","CHEMBL74838",NA,NA,"Small molecule",0,330.29,60
+"822","CHEMBL416","METHOXSALEN","8-METHOXSALEN|8-METHOXYPSORALEN|8-MOP|DELTASORALEN|MELADININE|METHOXSALEN|METOXALEN|Methoxsalen|NSC-45923|OXSORALEN-ULTRA|OXYPSORALEN|Oxsoralen|PUVALEN|PUVASORALEN-8|SM-88 COMPONENT METHOXSALEN|UVADEX|VITPSO|XANTHOTOXIN","Small molecule",4,216.19,250
+"823","CHEMBL2000054",NA,NA,"Small molecule",0,318.46,69
+"824","CHEMBL1980572",NA,NA,"Small molecule",0,430.45,59
+"825","CHEMBL475676","CASEAMEMBRIN A",NA,"Small molecule",0,546.7,6
+"826","CHEMBL1957116","HARMIC ACID METHYL ESTER","Harmic Acid Methyl Ester","Small molecule",0,256.26,7
+"827","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"828","CHEMBL3109461",NA,NA,"Small molecule",0,460.74,4
+"829","CHEMBL325222",NA,NA,"Small molecule",0,756.9,3
+"830","CHEMBL510560",NA,NA,"Small molecule",0,394.42,58
+"831","CHEMBL228565","ELAEODENDROSIDE F","Elaeodendroside F","Small molecule",0,574.67,5
+"832","CHEMBL483208","NEOISOSTEGANE","Neoisostegane","Small molecule",0,414.45,1
+"833","CHEMBL482587",NA,"15R-Hydroxytrametenolic Acid","Small molecule",0,472.71,1
+"834","CHEMBL123","ELLIPTECINE","Ellipticine|TCMDC-125546","Small molecule",0,246.31,283
+"835","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"836","CHEMBL2152451","ISOPATRISCABROL","Isopatriscabrol","Small molecule",0,200.23,2
+"837","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"838","CHEMBL517597",NA,NA,"Small molecule",0,440.71,8
+"839","CHEMBL207878","CESPITULACTONE A MONOACETATE","Cespitulactone A Monoacetate","Small molecule",0,362.47,2
+"840","CHEMBL2409235",NA,NA,"Small molecule",0,374.35,6
+"841","CHEMBL521803",NA,"Triptogelin C-1","Small molecule",0,516.59,3
+"842","CHEMBL462795","CALENDULADIOL","Calenduladiol","Small molecule",0,442.73,53
+"843","CHEMBL1783105","VERAGUAMIDE A","Veraguamide A","Small molecule",0,767.8,3
+"844","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"845","CHEMBL1817922","Swerilactone O","Swerilactone O","Small molecule",0,216.24,2
+"846","CHEMBL483825",NA,"(-)-Roemerine","Small molecule",0,279.34,22
+"847","CHEMBL1223852",NA,"Alpha-Tocopherylquinone","Small molecule",0,446.72,27
+"848","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"849","CHEMBL3622817",NA,NA,"Small molecule",0,332.44,3
+"850","CHEMBL258445",NA,NA,"Small molecule",0,458.73,2
+"851","CHEMBL457606",NA,"(+)-Hippeastrine","Small molecule",0,315.33,13
+"852","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"853","CHEMBL295602","METHYL BETULINATE","Methyl betulinate|betulinic acid methylester","Small molecule",0,470.74,72
+"854","CHEMBL317221",NA,NA,"Small molecule",0,270.28,6
+"855","CHEMBL1689806","CLAUSINE K","Clausine K","Small molecule",0,271.27,7
+"856","CHEMBL517297",NA,"Blumiolide-B","Small molecule",0,332.44,2
+"857","CHEMBL463692",NA,NA,"Small molecule",0,382.37,2
+"858","CHEMBL448283",NA,NA,"Small molecule",0,233.06,2
+"859","CHEMBL234717",NA,NA,"Small molecule",0,356.33,2
+"860","CHEMBL455869",NA,NA,"Small molecule",0,436.63,5
+"861","CHEMBL3398367",NA,NA,"Small molecule",0,944,7
+"862","CHEMBL510022",NA,"(-)-Repandine","Small molecule",0,608.74,3
+"863","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"864","CHEMBL1927326","CLAUSZOLINE K","Clauszoline K|Clauszoline-K","Small molecule",0,225.25,9
+"865","CHEMBL1672002","THYMOQUINONE","NSC-2228|P-CYMENE-2,5-DIONE|P-MENTHA-3,6-DIENE-2,5-DIONE|THYMOQUINON|THYMOQUINONE","Small molecule",2,164.2,30
+"866","CHEMBL464360","EMODIN 8-O-BETA-D-GLUCOPYRANOSIDE","Emodin 8-glucoside","Small molecule",0,432.38,5
+"867","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"868","CHEMBL3263078",NA,NA,"Small molecule",0,394.4,7
+"869","CHEMBL1795469","CANDIDUSIN C","Candidusin C","Small molecule",0,366.37,4
+"870","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"871","CHEMBL2297541",NA,NA,"Small molecule",0,152.24,3
+"872","CHEMBL519099","(+)-EUDESMIN","(+)-Eudesmin|(+)-Pinoresinol Dimethyl Ether","Small molecule",0,386.44,17
+"873","CHEMBL501682",NA,NA,"Small molecule",0,913.11,4
+"874","CHEMBL497937",NA,NA,"Small molecule",0,304.43,7
+"875","CHEMBL503062","PICRASINOSIDE H","Picrasinoside H","Small molecule",0,612.67,6
+"876","CHEMBL505832",NA,NA,"Small molecule",0,1429.6,3
+"877","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"878","CHEMBL509319",NA,NA,"Small molecule",0,190.2,11
+"879","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"880","CHEMBL1915218",NA,"8-Hydroxydroserone","Small molecule",0,220.18,5
+"881","CHEMBL1969511",NA,NA,"Small molecule",0,386.36,58
+"882","CHEMBL510022",NA,"(-)-Repandine","Small molecule",0,608.74,3
+"883","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"884","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"885","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"886","CHEMBL490352",NA,NA,"Small molecule",0,272.3,1
+"887","CHEMBL483708","DEHYDROPIPERNOLINE","Dehydropipernoline|Dehydropipernonaline","Small molecule",0,339.44,6
+"888","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"889","CHEMBL239296",NA,"3 Beta-Acetyl Tormentic Acid","Small molecule",0,530.75,10
+"890","CHEMBL3808706",NA,NA,"Small molecule",0,416.65,5
+"891","CHEMBL503938","EUPARIN","Euparin","Small molecule",0,216.24,28
+"892","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"893","CHEMBL511941","CALCICOLIN B",NA,"Small molecule",0,448.51,3
+"894","CHEMBL260776",NA,"O-Ethylbakuchiol","Small molecule",0,284.44,4
+"895","CHEMBL443462","DEMETHYLENCECALIN","7-Demethylencecalin|Demethylencecalin","Small molecule",0,218.25,27
+"896","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"897","CHEMBL515367","XINDONGNIN B",NA,"Small molecule",0,392.49,1
+"898","CHEMBL518521",NA,"3-epineoruscogenin","Small molecule",0,428.61,1
+"899","CHEMBL454570","ORIDONIN","Ent-Oridonin|Oridonin","Small molecule",0,364.44,46
+"900","CHEMBL468974",NA,NA,"Small molecule",0,353.37,2
+"901","CHEMBL204860","MATRINE","Matrine","Small molecule",0,248.37,65
+"902","CHEMBL255035",NA,"5-O-Methylnaringenin","Small molecule",0,286.28,3
+"903","CHEMBL510532","PROSAPOGENIN 2","prosapogenin 2","Small molecule",0,956.13,2
+"904","CHEMBL1993326",NA,NA,"Small molecule",0,518.69,61
+"905","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"906","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"907","CHEMBL1172810","HAEMANTHAMINE","Haemanthamine","Small molecule",0,301.34,12
+"908","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"909","CHEMBL511941","CALCICOLIN B",NA,"Small molecule",0,448.51,3
+"910","CHEMBL510133","Swinholide A","Swinholide A","Small molecule",0,1389.89,4
+"911","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"912","CHEMBL1985317",NA,NA,"Small molecule",0,202.25,58
+"913","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"914","CHEMBL73991","TERNATIN","Ternatin","Small molecule",0,374.35,75
+"915","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"916","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"917","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"918","CHEMBL3039425","LINAMARIN",NA,"Small molecule",0,247.25,2
+"919","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"920","CHEMBL513197","SANDARACOPIMARIC ACID","Sandaracopimaric Acid","Small molecule",0,302.46,11
+"921","CHEMBL2023368",NA,"Rel-Uvaricin B","Small molecule",0,622.93,3
+"922","CHEMBL227113","LOLIOLIDE","(3S,5R)-Loliolide|Loliolide","Small molecule",0,196.25,17
+"923","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"924","CHEMBL400329",NA,NA,"Small molecule",0,330.42,2
+"925","CHEMBL510031",NA,"F-gitonin","Small molecule",0,1051.18,52
+"926","CHEMBL487609",NA,NA,"Small molecule",0,482.75,2
+"927","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"928","CHEMBL464360","EMODIN 8-O-BETA-D-GLUCOPYRANOSIDE","Emodin 8-glucoside","Small molecule",0,432.38,5
+"929","CHEMBL469717",NA,"Ar-Curcumene","Small molecule",0,202.34,5
+"930","CHEMBL495949","CALOTROPIN","Calotropin","Small molecule",0,532.63,71
+"931","CHEMBL366760",NA,NA,"Small molecule",0,354.31,6
+"932","CHEMBL1940084",NA,"(+)-tuberiferin","Small molecule",0,246.31,5
+"933","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"934","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"935","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"936","CHEMBL292945",NA,"5-Methoxy Podophyllotoxin|5-Methoxypodophyllotoxin","Small molecule",0,444.44,5
+"937","CHEMBL83527","PTEROSTILBENE","4-(3,5-Dimethoxystyryl)Phenol|PTEROSTILBENE|PTEROSTILBENE, (E)-|Pterostilben|TRANS-PTEROSTILBENE","Small molecule",2,256.3,106
+"938","CHEMBL1097579","CYTOGLOBOSIN C","Cytoglobosin C","Small molecule",0,530.67,3
+"939","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"940","CHEMBL462801","Rapanone",NA,"Small molecule",0,322.45,14
+"941","CHEMBL306946","TRYPTANTHRIN","GNF-Pf-2691|TCMDC-125859","Small molecule",0,248.24,139
+"942","CHEMBL2252750","DEMETHYLCRYPTOJAPONOL",NA,"Small molecule",0,316.44,20
+"943","CHEMBL2148106","DEBROMOAPLYSIATOXIN","Debromoaplysiatoxin","Small molecule",0,592.73,18
+"944","CHEMBL22969",NA,NA,"Small molecule",0,810.99,57
+"945","CHEMBL557810",NA,"5-Methoxymethylrhazinilam","Small molecule",0,338.45,2
+"946","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"947","CHEMBL151988",NA,NA,"Small molecule",0,254.25,5
+"948","CHEMBL549613","CALANHYDROQUINONE C","Calanhydroquinone C","Small molecule",0,302.33,7
+"949","CHEMBL187460","CRYPTOTANSHINONE","Cryptotanshinone","Small molecule",0,296.37,144
+"950","CHEMBL463108",NA,"5-O-Ethylembelin","Small molecule",0,322.44,4
+"951","CHEMBL204747",NA,"(+)-9Alpha-Hydroxymatrine","Small molecule",0,264.37,9
+"952","CHEMBL479020",NA,"Alpha-Zingiberene","Small molecule",0,204.36,2
+"953","CHEMBL479035",NA,"4-Ketopinoresinol","Small molecule",0,372.37,9
+"954","CHEMBL105912","RASPBERRYKETONE","Raspberry Ketone|Raspberryketone","Small molecule",0,164.2,4
+"955","CHEMBL451983","ENCECALIN","Encecalin","Small molecule",0,232.28,17
+"956","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"957","CHEMBL1254271","GENTISIDE F","Gentiside F","Small molecule",0,420.63,1
+"958","CHEMBL478172",NA,NA,"Small molecule",0,376.41,2
+"959","CHEMBL475560",NA,"7Alpha,20-Dihydroxyannonene","Small molecule",0,318.46,1
+"960","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"961","CHEMBL2036658",NA,"3Alpha-Hydroxymasticadienonic Acid","Small molecule",0,456.71,4
+"962","CHEMBL461985",NA,NA,"Small molecule",0,192.21,12
+"963","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"964","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"965","CHEMBL559945","BETA-IONONE","Beta-Ionone","Small molecule",0,192.3,13
+"966","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"967","CHEMBL2386702",NA,NA,"Small molecule",0,522.59,4
+"968","CHEMBL1812481","EUPHOSALICIN","Euphosalicin","Small molecule",0,820.85,4
+"969","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"970","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"971","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"972","CHEMBL494864","ROSMADIAL","Rosmadial","Small molecule",0,344.41,5
+"973","CHEMBL451919","Primin",NA,"Small molecule",0,208.26,8
+"974","CHEMBL1092320","ANGELOYLGOMISIN H","Angeloylgomisin H","Small molecule",0,500.59,4
+"975","CHEMBL1967321",NA,NA,"Small molecule",0,278.44,55
+"976","CHEMBL226507","SINENSETIN","Sinensetin","Small molecule",0,372.37,36
+"977","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"978","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"979","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"980","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"981","CHEMBL503200",NA,NA,"Small molecule",0,294.35,2
+"982","CHEMBL3185121",NA,NA,"Small molecule",0,220.31,4
+"983","CHEMBL21745","TECTOQUINONE","2-Methyl-Anthraquinone|2-Methylanthraquinone","Small molecule",0,222.24,14
+"984","CHEMBL320295","O,O'-DIMETHYLCAFFEIC ACID","O,O'-Dimethylcaffeic Acid","Small molecule",0,208.21,31
+"985","CHEMBL2087220",NA,NA,"Small molecule",0,304.34,4
+"986","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"987","CHEMBL446299","NOOTKATONE","(+)-Nootkatone|Nootkatone","Small molecule",0,218.34,12
+"988","CHEMBL540481","APIGENOSYLIDE A","Apigenosylide A","Small molecule",0,858.89,1
+"989","CHEMBL513117","KOABURASIDE","Koaburaside","Small molecule",0,332.31,10
+"990","CHEMBL258445",NA,NA,"Small molecule",0,458.73,2
+"991","CHEMBL1800811","MADAGASCIN","Madagascin","Small molecule",0,338.36,5
+"992","CHEMBL470462",NA,"3-Epi-Taraxerol","Small molecule",0,426.73,1
+"993","CHEMBL1215880",NA,"Epi-Pandamarilactonine-H","Small molecule",0,293.36,3
+"994","CHEMBL464402","DALRUBONE","Dalrubone","Small molecule",0,310.35,11
+"995","CHEMBL1976285",NA,NA,"Small molecule",0,288.39,58
+"996","CHEMBL510107","CASEAMEMBRIN D","Caseamembrin D","Small molecule",0,604.74,4
+"997","CHEMBL402744",NA,"(2S)-7-Hydroxyflavanone","Small molecule",0,240.26,10
+"998","CHEMBL1923080","SACCHARUMOSIDE C","Saccharumoside C","Small molecule",0,462.4,3
+"999","CHEMBL1077094","LONGIPEDLACTONE P","Longipedlactone P","Small molecule",0,570.68,5
+"1000","CHEMBL463045","JABOROSALACTONE 1","Jaborosalactone 1|Jaborosalactone1","Small molecule",0,464.56,8
+"1001","CHEMBL478085",NA,NA,"Small molecule",0,408.45,1
+"1002","CHEMBL3290504",NA,NA,"Small molecule",0,386.4,2
+"1003","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"1004","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1005","CHEMBL286796","ETHYL FERULATE","Ethyl Ferulate","Small molecule",0,222.24,25
+"1006","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1007","CHEMBL483414","PYRAMIDATINE","Pyramidatine","Small molecule",0,322.41,8
+"1008","CHEMBL447997",NA,"Iso-Gamma-Fagarine","Small molecule",0,229.24,11
+"1009","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1010","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1011","CHEMBL469628","GLOCHIDONE","Glochidone","Small molecule",0,422.7,18
+"1012","CHEMBL463492","MUNETONE","Munetone","Small molecule",0,416.47,1
+"1013","CHEMBL195296","SUGIOL","Sugiol","Small molecule",0,300.44,21
+"1014","CHEMBL2206793","MANSONONE G","Mansonone G","Small molecule",0,244.29,3
+"1015","CHEMBL1087024",NA,"(3R)-Mucronulatol","Small molecule",0,302.33,2
+"1016","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1017","CHEMBL1977780",NA,NA,"Small molecule",0,426.73,60
+"1018","CHEMBL239075","EUSCAPHIC ACID","Euscaphic Acid","Small molecule",0,488.71,28
+"1019","CHEMBL475478","SMILASIDE B","smilaside B","Small molecule",0,736.68,6
+"1020","CHEMBL487606","BARRINGTOGENOL C","Barringtogenol C","Small molecule",0,490.73,8
+"1021","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"1022","CHEMBL370963",NA,"5,6,7,3',4',5'-Hexamethoxy Flavone|5,6,7,3',4',5'-Hexamethoxyflavone","Small molecule",0,402.4,11
+"1023","CHEMBL465860",NA,"Eudesmane-4Alpha,11-Diol","Small molecule",0,240.39,2
+"1024","CHEMBL447335","STIGMASTEROL GLUCOSIDE","Stigmasterol glucoside","Small molecule",0,574.84,9
+"1025","CHEMBL2036080",NA,NA,"Small molecule",0,722.91,6
+"1026","CHEMBL442990",NA,NA,"Small molecule",0,332.44,2
+"1027","CHEMBL1097683",NA,"Hydroxy-3,7-Dimethoxyflavone","Small molecule",0,298.29,9
+"1028","CHEMBL469628","GLOCHIDONE","Glochidone","Small molecule",0,422.7,18
+"1029","CHEMBL253474","MUCRONULATOL","(3S)-Mucronulatol|Mucronulatol","Small molecule",0,302.33,8
+"1030","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"1031","CHEMBL1987496",NA,NA,"Small molecule",0,244.21,56
+"1032","CHEMBL376915",NA,NA,"Small molecule",0,340.38,15
+"1033","CHEMBL555196","SILVESTROL","(-)-Silvestrol|Silvestrol","Small molecule",0,654.67,24
+"1034","CHEMBL3437595",NA,NA,"Small molecule",0,274.27,18
+"1035","CHEMBL510107","CASEAMEMBRIN D","Caseamembrin D","Small molecule",0,604.74,4
+"1036","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1037","CHEMBL393222","WIGHTEONE","Wighteone","Small molecule",0,338.36,23
+"1038","CHEMBL444160",NA,NA,"Small molecule",0,236.23,16
+"1039","CHEMBL1672002","THYMOQUINONE","NSC-2228|P-CYMENE-2,5-DIONE|P-MENTHA-3,6-DIENE-2,5-DIONE|THYMOQUINON|THYMOQUINONE","Small molecule",2,164.2,30
+"1040","CHEMBL235429","LAURIFOLINE","Laurifoline","Small molecule",0,342.42,2
+"1041","CHEMBL238845",NA,"(-)-Medicarpin","Small molecule",0,270.28,73
+"1042","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"1043","CHEMBL517212","LYSCAMINE","Lyscamine","Small molecule",0,311.34,2
+"1044","CHEMBL464198",NA,NA,"Small molecule",0,582.6,19
+"1045","CHEMBL48310","HINOKITIOL","beta-thujaplicin","Small molecule",0,164.2,146
+"1046","CHEMBL225700","ARTEMETIN","Artemetin|Artemisetin","Small molecule",0,388.37,21
+"1047","CHEMBL3318191",NA,NA,"Small molecule",0,324.46,4
+"1048","CHEMBL403228",NA,"2'-Hydroxybiochanin A","Small molecule",0,300.27,5
+"1049","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1050","CHEMBL562046","RABDOKUNMIN D","Rabdokunmin D","Small molecule",0,350.46,8
+"1051","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1052","CHEMBL225870",NA,NA,"Small molecule",0,442.73,9
+"1053","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1054","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1055","CHEMBL465851",NA,"Heptadecane-1,8-Diol","Small molecule",0,272.47,4
+"1056","CHEMBL510031",NA,"F-gitonin","Small molecule",0,1051.18,52
+"1057","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1058","CHEMBL508460",NA,"Aristoloterpenate-III","Small molecule",0,557.6,1
+"1059","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1060","CHEMBL2430445","DIVARINE",NA,"Small molecule",0,600.81,5
+"1061","CHEMBL487017","APIGETRIN","NSC-407303","Small molecule",0,432.38,101
+"1062","CHEMBL519099","(+)-EUDESMIN","(+)-Eudesmin|(+)-Pinoresinol Dimethyl Ether","Small molecule",0,386.44,17
+"1063","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"1064","CHEMBL556064",NA,NA,"Small molecule",0,580.67,3
+"1065","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1066","CHEMBL457605","TAZETTINE","(+)-Tazettine","Small molecule",0,331.37,21
+"1067","CHEMBL255516",NA,NA,"Small molecule",0,336.47,4
+"1068","CHEMBL1641904",NA,NA,"Small molecule",0,358.39,6
+"1069","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1070","CHEMBL1081328",NA,"(2R,3R)-Alpinone","Small molecule",0,286.28,5
+"1071","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"1072","CHEMBL1774403",NA,NA,"Small molecule",0,466.57,4
+"1073","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1074","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"1075","CHEMBL445760","ARTOCHAMIN C","Artochamin C","Small molecule",0,352.34,10
+"1076","CHEMBL3677268",NA,NA,"Small molecule",0,294.48,1
+"1077","CHEMBL267963","(+)-PINORESINOL","(+)-Pinoresinol","Small molecule",0,358.39,18
+"1078","CHEMBL1077284",NA,NA,"Small molecule",0,296.45,2
+"1079","CHEMBL1835965","SARMENTOSUMIN D","Sarmentosumin D","Small molecule",0,786.88,2
+"1080","CHEMBL3186162",NA,NA,"Small molecule",0,152.15,3
+"1081","CHEMBL1969511",NA,NA,"Small molecule",0,386.36,58
+"1082","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1083","CHEMBL480652",NA,NA,"Small molecule",0,198.22,2
+"1084","CHEMBL235428","MAGNOFLORINE","Magnoflorine","Small molecule",0,342.42,11
+"1085","CHEMBL517161","COWAXANTHONE","Cowaxanthone","Small molecule",0,410.47,10
+"1086","CHEMBL1992900",NA,NA,"Small molecule",0,374.35,62
+"1087","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1088","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"1089","CHEMBL3593384",NA,NA,"Small molecule",0,248.32,3
+"1090","CHEMBL2036080",NA,NA,"Small molecule",0,722.91,6
+"1091","CHEMBL1095348","CHIKUSETSUSAPONIN IVA","Chikusetsusaponin Iva","Small molecule",0,794.98,11
+"1092","CHEMBL461908","LIPPSIDOQUINONE","Lippsidoquinone","Small molecule",0,466.53,3
+"1093","CHEMBL454773","PARISIN","Parisin","Small molecule",0,656.94,2
+"1094","CHEMBL596396","CASSIARIN A",NA,"Small molecule",0,213.24,9
+"1095","CHEMBL1915212","DROSERONE","Droserone","Small molecule",0,204.18,1
+"1096","CHEMBL1990053",NA,NA,"Small molecule",0,410.51,60
+"1097","CHEMBL146710",NA,"2-Aminophenoxazinone","Small molecule",0,212.21,51
+"1098","CHEMBL1234201",NA,NA,"Small molecule",0,103.12,1
+"1099","CHEMBL388351",NA,"Ambrosanolide-B","Small molecule",0,364.44,2
+"1100","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1101","CHEMBL592172","GENTISIDE A",NA,"Small molecule",0,462.72,1
+"1102","CHEMBL1915212","DROSERONE","Droserone","Small molecule",0,204.18,1
+"1103","CHEMBL458847",NA,NA,"Small molecule",0,314.29,3
+"1104","CHEMBL466334","XANTHOGALENOL","xanthogalenol","Small molecule",0,354.4,2
+"1105","CHEMBL1901330",NA,NA,"Small molecule",0,436.37,3
+"1106","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"1107","CHEMBL469670",NA,NA,"Small molecule",0,314.43,7
+"1108","CHEMBL1080658",NA,"Epsilon-Cotonefuran","Small molecule",0,290.27,8
+"1109","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"1110","CHEMBL447335","STIGMASTEROL GLUCOSIDE","Stigmasterol glucoside","Small molecule",0,574.84,9
+"1111","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1112","CHEMBL1672002","THYMOQUINONE","NSC-2228|P-CYMENE-2,5-DIONE|P-MENTHA-3,6-DIENE-2,5-DIONE|THYMOQUINON|THYMOQUINONE","Small molecule",2,164.2,30
+"1113","CHEMBL1967321",NA,NA,"Small molecule",0,278.44,55
+"1114","CHEMBL507001","DIOSCIN","Dioscin","Small molecule",0,869.06,60
+"1115","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"1116","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"1117","CHEMBL518700","TAGITININ A",NA,"Small molecule",0,368.43,11
+"1118","CHEMBL1991531",NA,NA,"Small molecule",0,400.38,36
+"1119","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1120","CHEMBL376266","METHYL BETULONATE","Methyl Betulonate","Small molecule",0,468.72,19
+"1121","CHEMBL2316499",NA,"N-Methylasimilobine","Small molecule",0,281.36,4
+"1122","CHEMBL463545",NA,NA,"Small molecule",0,348.39,3
+"1123","CHEMBL186478",NA,NA,"Small molecule",0,296.28,3
+"1124","CHEMBL123","ELLIPTECINE","Ellipticine|TCMDC-125546","Small molecule",0,246.31,283
+"1125","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1126","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"1127","CHEMBL518045","SUMATROL","Sumatrol","Small molecule",0,410.42,3
+"1128","CHEMBL184480","CORONARIDINE HYDROXYINDOLENINE","Coronaridine Hydroxyindolenine","Small molecule",0,354.45,10
+"1129","CHEMBL404313","ASIATIC ACID","Asiatic acid","Small molecule",0,488.71,52
+"1130","CHEMBL507971",NA,"8(12)-Drimene","Small molecule",0,206.37,5
+"1131","CHEMBL1762125","LOBOCOMPACTOL A","Lobocompactol A","Small molecule",0,320.47,3
+"1132","CHEMBL1098427","HIPPURISTANOL","Hippuristanol","Small molecule",0,462.67,15
+"1133","CHEMBL1977780",NA,NA,"Small molecule",0,426.73,60
+"1134","CHEMBL464778","MINIMIFLORIN","Minimiflorin","Small molecule",0,406.48,8
+"1135","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"1136","CHEMBL507001","DIOSCIN","Dioscin","Small molecule",0,869.06,60
+"1137","CHEMBL447335","STIGMASTEROL GLUCOSIDE","Stigmasterol glucoside","Small molecule",0,574.84,9
+"1138","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"1139","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1140","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1141","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1142","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"1143","CHEMBL465683","MAOECRYSTAL P","Maoecrystal P","Small molecule",0,342.39,7
+"1144","CHEMBL1760596",NA,NA,"Small molecule",0,226.23,4
+"1145","CHEMBL518690","JUSTICINOL","Justicinol","Small molecule",0,410.38,3
+"1146","CHEMBL1241050",NA,NA,"Small molecule",0,236.27,8
+"1147","CHEMBL1984821",NA,NA,"Small molecule",0,372.33,58
+"1148","CHEMBL224481","CABRALEONE","Cabraleone","Small molecule",0,458.73,11
+"1149","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1150","CHEMBL19612","SPERMIDINE","Spermidine","Small molecule",0,145.25,77
+"1151","CHEMBL1980572",NA,NA,"Small molecule",0,430.45,59
+"1152","CHEMBL3814584",NA,NA,"Small molecule",0,343.83,2
+"1153","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"1154","CHEMBL311226","CASTANOSPERMINE","CASTANOSPERMINE|NSC-625381","Small molecule",0,189.21,78
+"1155","CHEMBL1987381",NA,NA,"Small molecule",0,275.35,56
+"1156","CHEMBL521296",NA,"NSC-83279","Small molecule",0,432.43,63
+"1157","CHEMBL509181",NA,NA,"Small molecule",0,404.51,3
+"1158","CHEMBL376915",NA,NA,"Small molecule",0,340.38,15
+"1159","CHEMBL1278089","CHOLESTAN-3beta,5alpha,6beta-TRIOL","3Beta,5Alpha,6Beta-Trihydroxycholestanol","Small molecule",0,420.68,17
+"1160","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1161","CHEMBL393417","DEGUELIN","Deguelin","Small molecule",0,394.42,49
+"1162","CHEMBL447335","STIGMASTEROL GLUCOSIDE","Stigmasterol glucoside","Small molecule",0,574.84,9
+"1163","CHEMBL483414","PYRAMIDATINE","Pyramidatine","Small molecule",0,322.41,8
+"1164","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"1165","CHEMBL524903",NA,"3-(Hydroxyacetyl)Indole|3-(Hydroxylacetyl)-Indole","Small molecule",0,175.19,9
+"1166","CHEMBL479474",NA,"NSC-672120","Small molecule",0,262.3,61
+"1167","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1168","CHEMBL2419312",NA,NA,"Small molecule",0,400.51,3
+"1169","CHEMBL1631979",NA,"7-Nor-Ergosterolide","Small molecule",0,414.63,6
+"1170","CHEMBL225700","ARTEMETIN","Artemetin|Artemisetin","Small molecule",0,388.37,21
+"1171","CHEMBL465497","EXODECONOLIDE A",NA,"Small molecule",0,468.59,3
+"1172","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1173","CHEMBL2333577",NA,"1Beta-P-Coumaroyloxypolygodial","Small molecule",0,396.48,2
+"1174","CHEMBL61673",NA,NA,"Small molecule",0,222.2,4
+"1175","CHEMBL2037039","BRUCEINE H","Bruceine H","Small molecule",0,426.42,5
+"1176","CHEMBL306946","TRYPTANTHRIN","GNF-Pf-2691|TCMDC-125859","Small molecule",0,248.24,139
+"1177","CHEMBL400807",NA,NA,"Small molecule",0,414.63,5
+"1178","CHEMBL2036658",NA,"3Alpha-Hydroxymasticadienonic Acid","Small molecule",0,456.71,4
+"1179","CHEMBL1993326",NA,NA,"Small molecule",0,518.69,61
+"1180","CHEMBL239075","EUSCAPHIC ACID","Euscaphic Acid","Small molecule",0,488.71,28
+"1181","CHEMBL446299","NOOTKATONE","(+)-Nootkatone|Nootkatone","Small molecule",0,218.34,12
+"1182","CHEMBL488313",NA,NA,"Small molecule",0,554.68,72
+"1183","CHEMBL239077","TOMENTIC ACID","Tomentic Acid|Tormentic Acid","Small molecule",0,488.71,22
+"1184","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1185","CHEMBL519724","PALLIDISETIN A",NA,"Small molecule",0,342.39,2
+"1186","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"1187","CHEMBL457820","DICHOTOMINE B",NA,"Small molecule",0,272.26,1
+"1188","CHEMBL519933","DENDRONPHOLIDE G","Dendronpholide G","Small molecule",0,424.53,1
+"1189","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"1190","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1191","CHEMBL595798","AYAPIN","Ayapin","Small molecule",0,190.15,1
+"1192","CHEMBL591728",NA,NA,"Small molecule",0,356.37,3
+"1193","CHEMBL1171146","SARSASAPOGENIN","Sarsasapogenin","Small molecule",0,416.65,16
+"1194","CHEMBL187460","CRYPTOTANSHINONE","Cryptotanshinone","Small molecule",0,296.37,144
+"1195","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1196","CHEMBL2011539","PLUVIATILOL","Pluviatilol","Small molecule",0,356.37,5
+"1197","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1198","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"1199","CHEMBL495821",NA,NA,"Small molecule",0,374.35,4
+"1200","CHEMBL469708",NA,"2,3,9-Trimethoxypterocarpan","Small molecule",0,314.34,8
+"1201","CHEMBL1086907",NA,NA,"Small molecule",0,520.53,2
+"1202","CHEMBL1977780",NA,NA,"Small molecule",0,426.73,60
+"1203","CHEMBL225815","CYCLOARTENOL","Cycloartenol","Small molecule",0,426.73,64
+"1204","CHEMBL1241050",NA,NA,"Small molecule",0,236.27,8
+"1205","CHEMBL445760","ARTOCHAMIN C","Artochamin C","Small molecule",0,352.34,10
+"1206","CHEMBL273019","BERGENIN","BERGENIN|BERGENINUM|NSC-661749|NSC-757796|YANBAICAISU","Small molecule",0,328.27,39
+"1207","CHEMBL464404","CASTANIN","Afromosin|Afrormosin|Castanin","Small molecule",0,298.29,27
+"1208","CHEMBL3138641",NA,NA,"Small molecule",0,410.69,2
+"1209","CHEMBL1971343",NA,NA,"Small molecule",0,271.32,59
+"1210","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"1211","CHEMBL447731","CARPESTEROL","Carpesterol","Small molecule",0,562.84,1
+"1212","CHEMBL518262","ERYTHRALINE","Erythraline","Small molecule",0,297.35,1
+"1213","CHEMBL2375662",NA,NA,"Small molecule",0,838.94,3
+"1214","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1215","CHEMBL452952","WITHAPHYSACARPIN","Withaphysacarpin","Small molecule",0,488.62,6
+"1216","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1217","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"1218","CHEMBL465860",NA,"Eudesmane-4Alpha,11-Diol","Small molecule",0,240.39,2
+"1219","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"1220","CHEMBL516995","CRASSOCOLIDE D","Crassocolide D","Small molecule",0,334.46,4
+"1221","CHEMBL3138641",NA,NA,"Small molecule",0,410.69,2
+"1222","CHEMBL1985918",NA,NA,"Small molecule",0,360.32,60
+"1223","CHEMBL185","FLUOROURACIL","5 FU|5-FLUORURACIL|5-FU|5-Fluorouracil|5.F.U.|ACCUSITE|ACTIKERALL|Adrucil|Carac|EFUDIX|Efudex|FLUORO-URACIL ROCHE|FLUOROURACIL|FLUOROURACILUM|FLUOROURICIL|FLURACIL|Fluoroplex|NSC-19893|PHTHORURACIL|QUEROPLEX|RO 2-9757|RO-2-9757|RO-29757|TOLAK","Small molecule",4,130.08,485
+"1224","CHEMBL491174","PRUNETIN","Prunetin","Small molecule",0,284.27,27
+"1225","CHEMBL551160","CUCURBITACIN G","Cucurbitacin G","Small molecule",0,534.69,5
+"1226","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1227","CHEMBL2007304",NA,NA,"Small molecule",0,284.31,54
+"1228","CHEMBL487214","DEHYDROPODOPHYLLOTOXIN","Dehydropodophyllotoxin","Small molecule",0,410.38,15
+"1229","CHEMBL456557",NA,NA,"Small molecule",0,366.41,4
+"1230","CHEMBL498129",NA,NA,"Small molecule",0,506.55,7
+"1231","CHEMBL1975384",NA,NA,"Small molecule",0,389.28,56
+"1232","CHEMBL522983",NA,"NSC-19803","Small molecule",0,464.38,56
+"1233","CHEMBL399334",NA,NA,"Small molecule",0,696.79,2
+"1234","CHEMBL267963","(+)-PINORESINOL","(+)-Pinoresinol","Small molecule",0,358.39,18
+"1235","CHEMBL1984754",NA,NA,"Small molecule",0,458.73,54
+"1236","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1237","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"1238","CHEMBL476112",NA,NA,"Small molecule",0,238.37,3
+"1239","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1240","CHEMBL1223851",NA,NA,"Small molecule",0,328.32,3
+"1241","CHEMBL147741","3-FORMYLINDOLE","3-Formylindole|Indole-3-Carboxaldehyde","Small molecule",0,145.16,31
+"1242","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"1243","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"1244","CHEMBL501870","CONIFERYL ALCOHOL","Trans-Coniferyl Alcohol","Small molecule",0,180.2,22
+"1245","CHEMBL3593379",NA,NA,"Small molecule",0,248.32,3
+"1246","CHEMBL465860",NA,"Eudesmane-4Alpha,11-Diol","Small molecule",0,240.39,2
+"1247","CHEMBL3289101",NA,NA,"Small molecule",0,440.71,3
+"1248","CHEMBL512154","MARITINONE","Maritinone","Small molecule",0,374.35,15
+"1249","CHEMBL451983","ENCECALIN","Encecalin","Small molecule",0,232.28,17
+"1250","CHEMBL53439","DEMETHOXYMATTEUCINOL","6,8-Dimethylpinocembrin|Demethoxymatteucinol","Small molecule",0,284.31,27
+"1251","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1252","CHEMBL461614","DALBERATIN B",NA,"Small molecule",0,316.35,2
+"1253","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1254","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1255","CHEMBL74272",NA,NA,"Small molecule",0,374.35,61
+"1256","CHEMBL393417","DEGUELIN","Deguelin","Small molecule",0,394.42,49
+"1257","CHEMBL479020",NA,"Alpha-Zingiberene","Small molecule",0,204.36,2
+"1258","CHEMBL1987381",NA,NA,"Small molecule",0,275.35,56
+"1259","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1260","CHEMBL3814584",NA,NA,"Small molecule",0,343.83,2
+"1261","CHEMBL484679","VERNOFLEXIN","Vernoflexin","Small molecule",0,328.41,1
+"1262","CHEMBL505347","ASPARANIN A",NA,"Small molecule",0,740.93,5
+"1263","CHEMBL400538","COMAPARVIN","Comaparvin","Small molecule",0,300.31,5
+"1264","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"1265","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"1266","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1267","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1268","CHEMBL519099","(+)-EUDESMIN","(+)-Eudesmin|(+)-Pinoresinol Dimethyl Ether","Small molecule",0,386.44,17
+"1269","CHEMBL1095074",NA,NA,"Small molecule",0,285.3,3
+"1270","CHEMBL507354",NA,NA,"Small molecule",0,198.22,2
+"1271","CHEMBL1998369",NA,NA,"Small molecule",0,360.32,62
+"1272","CHEMBL3577084",NA,NA,"Small molecule",0,356.42,4
+"1273","CHEMBL89905","4'-DEMETHYLDEOXYPODOPHYLLOTOXIN","4'-Demethyldeoxypodophyllotoxin|4-Demethyl-Deoxypodophyllotoxin","Small molecule",0,384.38,34
+"1274","CHEMBL1081584","LOGANIN","Loganin","Small molecule",0,390.39,15
+"1275","CHEMBL485777","CUDRAFLAVONE C","Cudraflavone C","Small molecule",0,422.48,14
+"1276","CHEMBL253984",NA,"16-Epikopsinine","Small molecule",0,338.45,2
+"1277","CHEMBL518390",NA,"30-Hydroxylupeol","Small molecule",0,442.73,6
+"1278","CHEMBL234932",NA,"3',4',6,7-Tetramethoxyisoflavone|6,7,3',4'-Tetramethoxyisoflavone","Small molecule",0,342.35,4
+"1279","CHEMBL55659","ANTHRAQUINONE","9,10-Anthraquinone|Anthracene-9,10-Dione|Anthraquinone","Small molecule",0,208.22,44
+"1280","CHEMBL220075","SUBAMOLIDE B","Subamolide B","Small molecule",0,340.5,1
+"1281","CHEMBL452224",NA,NA,"Small molecule",0,380.52,2
+"1282","CHEMBL480648","BRITANNILACTONE","Britannilactone","Small molecule",0,266.34,4
+"1283","CHEMBL1958058",NA,NA,"Small molecule",0,379.46,3
+"1284","CHEMBL451919","Primin",NA,"Small molecule",0,208.26,8
+"1285","CHEMBL538942",NA,NA,"Small molecule",0,604.83,1
+"1286","CHEMBL463545",NA,NA,"Small molecule",0,348.39,3
+"1287","CHEMBL491366","CHRYSOSPLENOL D","Chrysosplenol D|Quercetagetin 3,6,7-Trimethyl Ether","Small molecule",0,360.32,9
+"1288","CHEMBL2036080",NA,NA,"Small molecule",0,722.91,6
+"1289","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1290","CHEMBL327101","MERIDINE","Meridine","Small molecule",0,299.29,26
+"1291","CHEMBL1835962","SARMENTOSUMIN A","Sarmentosumin A","Small molecule",0,680.75,2
+"1292","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1293","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1294","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"1295","CHEMBL2007304",NA,NA,"Small molecule",0,284.31,54
+"1296","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"1297","CHEMBL219035","SECOSUBAMOLIDE","Secosubamolide","Small molecule",0,340.5,1
+"1298","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"1299","CHEMBL464115","ORTHOSIPHONONE C","Orthosiphonone C","Small molecule",0,528.6,1
+"1300","CHEMBL1278178",NA,NA,"Small molecule",0,448.73,1
+"1301","CHEMBL3582003",NA,NA,"Small molecule",0,496.6,7
+"1302","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1303","CHEMBL491989","OXYAYANIN A",NA,"Small molecule",0,360.32,1
+"1304","CHEMBL2047365","TEHUANINE F","tehuanine F","Small molecule",0,372.37,2
+"1305","CHEMBL522112",NA,"NSC-176323","Small molecule",0,378.38,75
+"1306","CHEMBL475560",NA,"7Alpha,20-Dihydroxyannonene","Small molecule",0,318.46,1
+"1307","CHEMBL1669577",NA,NA,"Small molecule",0,329.44,10
+"1308","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1309","CHEMBL503702","NEOBRITANNILACTONE B","neobritannilactone B","Small molecule",0,248.32,4
+"1310","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1311","CHEMBL468548","ADENANTHIN K","Adenanthin K","Small molecule",0,492.57,7
+"1312","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1313","CHEMBL463545",NA,NA,"Small molecule",0,348.39,3
+"1314","CHEMBL462716","CRATOXYARBORENONE E","cratoxyarborenone E","Small molecule",0,410.47,1
+"1315","CHEMBL2375660",NA,NA,"Small molecule",0,560.64,3
+"1316","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"1317","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"1318","CHEMBL241609","OROBOL","Orobol","Small molecule",0,286.24,11
+"1319","CHEMBL400927","ELEPHANTOPIN","Elephantopin","Small molecule",0,360.36,59
+"1320","CHEMBL390965",NA,"24-Methylenepollinastanol","Small molecule",0,412.7,3
+"1321","CHEMBL479474",NA,"NSC-672120","Small molecule",0,262.3,61
+"1322","CHEMBL486997","BIGELOVIN","6-O-Acetylmexicanin|Bigelovin","Small molecule",0,304.34,10
+"1323","CHEMBL303104",NA,NA,"Small molecule",0,552.79,1
+"1324","CHEMBL464966","IZALPININ","Izalpinin","Small molecule",0,284.27,9
+"1325","CHEMBL238188","OSAJIN",NA,"Small molecule",0,404.46,71
+"1326","CHEMBL448549","TAXUSPINE Z","taxuspine Z","Small molecule",0,653.81,1
+"1327","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1328","CHEMBL505347","ASPARANIN A",NA,"Small molecule",0,740.93,5
+"1329","CHEMBL220854",NA,NA,"Small molecule",0,1061.27,23
+"1330","CHEMBL2000522",NA,NA,"Small molecule",0,355.39,51
+"1331","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1332","CHEMBL212948","DAMNACANTHAL","Damnacanthal","Small molecule",0,282.25,28
+"1333","CHEMBL146710",NA,"2-Aminophenoxazinone","Small molecule",0,212.21,51
+"1334","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1335","CHEMBL325222",NA,NA,"Small molecule",0,756.9,3
+"1336","CHEMBL3109461",NA,NA,"Small molecule",0,460.74,4
+"1337","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"1338","CHEMBL394119",NA,NA,"Small molecule",0,323.97,4
+"1339","CHEMBL479305","SCHLEICHEOL 1","Schleicheol 1","Small molecule",0,444.74,7
+"1340","CHEMBL3634982",NA,NA,"Small molecule",0,530.66,2
+"1341","CHEMBL504047","5-HYDROXYAURANETIN",NA,"Small molecule",0,388.37,10
+"1342","CHEMBL552709",NA,"(-)-Quebrachamine","Small molecule",0,282.43,2
+"1343","CHEMBL485777","CUDRAFLAVONE C","Cudraflavone C","Small molecule",0,422.48,14
+"1344","CHEMBL483031","CHRYSOSPLENOL C","Chrysosplenol C","Small molecule",0,360.32,4
+"1345","CHEMBL503883",NA,"7-Epi-Taxol","Small molecule",0,853.92,4
+"1346","CHEMBL483843","CHRYSOSPLENOL E","Chrysosplenol E","Small molecule",0,374.35,1
+"1347","CHEMBL478960","MACLURAXANTHONE","Macluraxanthone","Small molecule",0,394.42,21
+"1348","CHEMBL252913",NA,"(3S)-Vestitol","Small molecule",0,272.3,8
+"1349","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1350","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1351","CHEMBL312862","DEMECOLCINE","C-12669|COLCHAMINE|DEACETYL-N-METHYLCOLCHICINE|DEMECOLCINE|NSC-3096|SUBSTANCE F","Small molecule",0,371.43,34
+"1352","CHEMBL458846","RUBRAXANTHONE","Rubraxanthone","Small molecule",0,410.47,14
+"1353","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"1354","CHEMBL464360","EMODIN 8-O-BETA-D-GLUCOPYRANOSIDE","Emodin 8-glucoside","Small molecule",0,432.38,5
+"1355","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"1356","CHEMBL490350",NA,NA,"Small molecule",0,474.46,2
+"1357","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1358","CHEMBL1965404",NA,NA,"Small molecule",0,388.42,50
+"1359","CHEMBL1976139",NA,NA,"Small molecule",0,416.38,59
+"1360","CHEMBL1081414","SHANZHISIDE METHYL ESTER","Shanzhiside Methyl Ester","Small molecule",0,406.38,6
+"1361","CHEMBL1967321",NA,NA,"Small molecule",0,278.44,55
+"1362","CHEMBL464889",NA,NA,"Small molecule",0,364.35,5
+"1363","CHEMBL272485","DIBUTYL PHTHALATE","BUTYL PHTHALATE|CORFLEX 440|DI-N-BUTYL PHTHALATE|DIBUTYL PHTHALATE|DIBUTYLPHTHALATE|ERGOPLAST FDB|GENOPLAST B|HATCO DBP|KODAFLEX DBP|MONOCIZER DBP|NSC-6370|PALATINOL C|PLASTHALL DBP|POLYCIZER DBP|RUIFENG VP 201|STAFLEX DBP|UNIMOLL DB|VESTINOL C|VP-201|WITCIZER 300|YH-1BD2","Small molecule",0,278.35,20
+"1364","CHEMBL1766960",NA,NA,"Small molecule",0,234.34,2
+"1365","CHEMBL105310","2',4'-DIHYDROXYCHALCONE","(E)-2',4'-Dihydroxychalcone|2',4'-Dihydroxychalcone","Small molecule",0,240.26,60
+"1366","CHEMBL505976","ARGANINE C","Arganine C","Small molecule",0,1239.36,2
+"1367","CHEMBL538942",NA,NA,"Small molecule",0,604.83,1
+"1368","CHEMBL229421",NA,NA,"Small molecule",0,518.65,5
+"1369","CHEMBL55814","ATHRAQUINONES A",NA,"Small molecule",0,240.21,133
+"1370","CHEMBL2180482","LAGASCATRIOL","Lagascatriol","Small molecule",0,322.49,5
+"1371","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1372","CHEMBL486400","HEDERAGENIN","4-Epi-Hederagenin|Hederagenin","Small molecule",0,472.71,41
+"1373","CHEMBL1927831","EUPHORBIAPROLIFERIN B","Euphorbiaproliferin B","Small molecule",0,846.92,1
+"1374","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1375","CHEMBL458132","MAYTENOIC ACID","Maytenoic Acid","Small molecule",0,456.71,5
+"1376","CHEMBL518300","COMBRETOL","Combretol","Small molecule",0,388.37,1
+"1377","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1378","CHEMBL1164447","HYPTASIENIC ACID","Hyptasienic Acid","Small molecule",0,470.69,5
+"1379","CHEMBL250872","SYRINGIN","Syringin","Small molecule",0,372.37,20
+"1380","CHEMBL1223740","CRYPTOCHINONE A",NA,"Small molecule",0,300.31,6
+"1381","CHEMBL491174","PRUNETIN","Prunetin","Small molecule",0,284.27,27
+"1382","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1383","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1384","CHEMBL2047364","CHLOROGENIN","Chlorogenin","Small molecule",0,432.65,2
+"1385","CHEMBL1923074",NA,"Di-O-Methylcrenatin","Small molecule",0,346.33,5
+"1386","CHEMBL451705","CITRUSININE-I","Citrusinine-I","Small molecule",0,301.3,8
+"1387","CHEMBL520114","ACETYL NEOBRITANNILACTONE B",NA,"Small molecule",0,290.36,4
+"1388","CHEMBL259386","LICARINE B",NA,"Small molecule",0,324.38,5
+"1389","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"1390","CHEMBL479020",NA,"Alpha-Zingiberene","Small molecule",0,204.36,2
+"1391","CHEMBL479474",NA,"NSC-672120","Small molecule",0,262.3,61
+"1392","CHEMBL2407425",NA,NA,"Small molecule",0,225.29,3
+"1393","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1394","CHEMBL286796","ETHYL FERULATE","Ethyl Ferulate","Small molecule",0,222.24,25
+"1395","CHEMBL1254507","GENTISIDE K","Gentiside K","Small molecule",0,490.77,1
+"1396","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1397","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1398","CHEMBL1958058",NA,NA,"Small molecule",0,379.46,3
+"1399","CHEMBL1999372",NA,NA,"Small molecule",0,332.44,66
+"1400","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"1401","CHEMBL147741","3-FORMYLINDOLE","3-Formylindole|Indole-3-Carboxaldehyde","Small molecule",0,145.16,31
+"1402","CHEMBL1672002","THYMOQUINONE","NSC-2228|P-CYMENE-2,5-DIONE|P-MENTHA-3,6-DIENE-2,5-DIONE|THYMOQUINON|THYMOQUINONE","Small molecule",2,164.2,30
+"1403","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1404","CHEMBL2252750","DEMETHYLCRYPTOJAPONOL",NA,"Small molecule",0,316.44,20
+"1405","CHEMBL517161","COWAXANTHONE","Cowaxanthone","Small molecule",0,410.47,10
+"1406","CHEMBL147741","3-FORMYLINDOLE","3-Formylindole|Indole-3-Carboxaldehyde","Small molecule",0,145.16,31
+"1407","CHEMBL439053",NA,"2 Alpha-Acetyl Tomentic Acid","Small molecule",0,530.75,10
+"1408","CHEMBL487017","APIGETRIN","NSC-407303","Small molecule",0,432.38,101
+"1409","CHEMBL46257","PUTRESCINE","NSC-60545|PUTRESCINE","Small molecule",3,88.15,36
+"1410","CHEMBL25894","ZINGERONE","Vanillylacetone|Zingerone","Small molecule",0,194.23,15
+"1411","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1412","CHEMBL483208","NEOISOSTEGANE","Neoisostegane","Small molecule",0,414.45,1
+"1413","CHEMBL73991","TERNATIN","Ternatin","Small molecule",0,374.35,75
+"1414","CHEMBL1094940","LYCIFERIN D","Lyciferin D","Small molecule",0,384.52,2
+"1415","CHEMBL1762125","LOBOCOMPACTOL A","Lobocompactol A","Small molecule",0,320.47,3
+"1416","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"1417","CHEMBL141690","ISOBERGAPTENE",NA,"Small molecule",0,216.19,16
+"1418","CHEMBL235212","(S)-RETICULINE","(+)-Reticuline|(S)-Reticuline|L-(+)-Reticuline|Reticuline|S-Reticuline","Small molecule",0,329.4,16
+"1419","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1420","CHEMBL363535","TANSHINONE I","Tanshinone I","Small molecule",0,276.29,70
+"1421","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1422","CHEMBL1967731",NA,NA,"Small molecule",0,147.13,58
+"1423","CHEMBL512154","MARITINONE","Maritinone","Small molecule",0,374.35,15
+"1424","CHEMBL226512","GARDENIN B",NA,"Small molecule",0,358.35,80
+"1425","CHEMBL499185",NA,NA,"Small molecule",0,1215.34,1
+"1426","CHEMBL76447","NOBILETIN","NSC-76751","Small molecule",0,402.4,113
+"1427","CHEMBL443408","MYRTENOL","myrtenol","Small molecule",0,152.24,5
+"1428","CHEMBL501443","KADSUPHILINS A",NA,"Small molecule",0,546.62,5
+"1429","CHEMBL462729","BUCERACIDIN A",NA,"Small molecule",0,368.39,8
+"1430","CHEMBL448549","TAXUSPINE Z","taxuspine Z","Small molecule",0,653.81,1
+"1431","CHEMBL402744",NA,"(2S)-7-Hydroxyflavanone","Small molecule",0,240.26,10
+"1432","CHEMBL1969622",NA,NA,"Small molecule",0,351.4,57
+"1433","CHEMBL224141","TERMICALCICOLANONE A",NA,"Small molecule",0,394.42,1
+"1434","CHEMBL3357580",NA,NA,"Small molecule",0,586.68,3
+"1435","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"1436","CHEMBL340244","CALYTHROPSIN","Calythropsin","Small molecule",0,286.28,4
+"1437","CHEMBL1987381",NA,NA,"Small molecule",0,275.35,56
+"1438","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1439","CHEMBL525581",NA,NA,"Small molecule",0,510.63,2
+"1440","CHEMBL517065",NA,"3-Deoxybetulonic Acid","Small molecule",0,440.71,1
+"1441","CHEMBL1099267","ISOCORONARIN D","Isocoronarin D","Small molecule",0,318.46,1
+"1442","CHEMBL486261","LUZONOSIDE C","luzonoside C","Small molecule",0,536.53,1
+"1443","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"1444","CHEMBL564024",NA,NA,"Small molecule",0,530.48,3
+"1445","CHEMBL383035","CESPITULACTONE A",NA,"Small molecule",0,320.43,6
+"1446","CHEMBL230589",NA,NA,"Small molecule",0,230.26,2
+"1447","CHEMBL3588938",NA,NA,"Small molecule",0,474.73,6
+"1448","CHEMBL506269","CRYPTOPHYCIN 175","Cryptophycin 175","Small molecule",0,673.63,3
+"1449","CHEMBL503938","EUPARIN","Euparin","Small molecule",0,216.24,28
+"1450","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"1451","CHEMBL3402736",NA,NA,"Small molecule",0,288.48,1
+"1452","CHEMBL2346748","MAGNOLIGNAN A","Magnolignan A","Small molecule",0,300.35,2
+"1453","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1454","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"1455","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1456","CHEMBL1829658","DALBERGIN","Dalbergin","Small molecule",0,268.27,6
+"1457","CHEMBL446585","WITHAFEROXOLIDE","Withaferoxolide","Small molecule",0,470.61,3
+"1458","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1459","CHEMBL446062","ASTERLINGULATOSIDE","asterlingulatoside","Small molecule",0,1177.34,1
+"1460","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1461","CHEMBL225868","POLYSTHICOL (24S)","Polysthicol (24S)","Small molecule",0,454.78,3
+"1462","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"1463","CHEMBL255650",NA,NA,"Small molecule",0,542.85,2
+"1464","CHEMBL2063775","EPISTEPHANINE","NSC-121392","Small molecule",0,606.72,1
+"1465","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1466","CHEMBL235428","MAGNOFLORINE","Magnoflorine","Small molecule",0,342.42,11
+"1467","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1468","CHEMBL510517",NA,NA,"Small molecule",0,366.46,10
+"1469","CHEMBL520721","AGUERIN B",NA,"Small molecule",0,330.38,12
+"1470","CHEMBL1210424","MYCOSPORINE SERINOL","Mycosporine Serinol","Small molecule",0,261.27,2
+"1471","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1472","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1473","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1474","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1475","CHEMBL3263078",NA,NA,"Small molecule",0,394.4,7
+"1476","CHEMBL479281","CASSIPOURYL ACETATE","Cassipouryl Acetate","Small molecule",0,336.56,1
+"1477","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1478","CHEMBL483414","PYRAMIDATINE","Pyramidatine","Small molecule",0,322.41,8
+"1479","CHEMBL241609","OROBOL","Orobol","Small molecule",0,286.24,11
+"1480","CHEMBL2007304",NA,NA,"Small molecule",0,284.31,54
+"1481","CHEMBL596396","CASSIARIN A",NA,"Small molecule",0,213.24,9
+"1482","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"1483","CHEMBL468876",NA,NA,"Small molecule",0,328.32,11
+"1484","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1485","CHEMBL1182694",NA,NA,"Small molecule",0,333.34,2
+"1486","CHEMBL469918",NA,NA,"Small molecule",0,376.49,1
+"1487","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1488","CHEMBL1079777","AUCUPARIN","Aucuparin","Small molecule",0,230.26,7
+"1489","CHEMBL518601","ROCAGLOIC ACID","Rocagloic Acid","Small molecule",0,478.5,11
+"1490","CHEMBL75349","TETRAMETHYLSCUTELLAREIN","NSC-53908","Small molecule",0,342.35,100
+"1491","CHEMBL512759",NA,NA,"Small molecule",0,240.26,3
+"1492","CHEMBL508781",NA,"(+)-Aromoline","Small molecule",0,594.71,68
+"1493","CHEMBL1288123",NA,NA,"Small molecule",0,328.41,4
+"1494","CHEMBL510031",NA,"F-gitonin","Small molecule",0,1051.18,52
+"1495","CHEMBL462949",NA,"9Beta-Hydroxyparthenolide","Small molecule",0,264.32,23
+"1496","CHEMBL7187","COSTATOLIDE",NA,"Small molecule",0,370.45,12
+"1497","CHEMBL3233980",NA,NA,"Small molecule",0,334.46,6
+"1498","CHEMBL312750","EUPATILIN","EUPATILIN|NSC-122413","Small molecule",0,344.32,26
+"1499","CHEMBL3677268",NA,NA,"Small molecule",0,294.48,1
+"1500","CHEMBL290210","VERNOLEPIN","Vernolepin","Small molecule",0,276.29,10
+"1501","CHEMBL464176",NA,"13-Epi-Sclareol|13-Epi-Scloreol","Small molecule",0,308.51,40
+"1502","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1503","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"1504","CHEMBL1644523","MADAGASCARENSILIDE B","Madagascarensilide B","Small molecule",0,664.83,2
+"1505","CHEMBL441687","GLYCYRRHIZIN",".BETA.-GLYCYRRHIZIN|18.BETA.-GLYCYRRHIZIC ACID|E958|GLYCYRON|GLYCYRRHETINIC ACID|GLYCYRRHIZIC ACID|GLYCYRRHIZIN|GLYCYRRHIZINIC ACID|Glycyrrhizic Acid|NSC-167409|NSC-234419|POTENLINI","Small molecule",2,822.94,150
+"1506","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1507","CHEMBL1927324","CLAUSZOLINE C","Clauszoline C|Clauszoline-C","Small molecule",0,285.3,8
+"1508","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"1509","CHEMBL513957","ACROVESTONE","Acrovestone","Small molecule",0,554.68,9
+"1510","CHEMBL463710",NA,NA,"Small molecule",0,314.34,6
+"1511","CHEMBL519099","(+)-EUDESMIN","(+)-Eudesmin|(+)-Pinoresinol Dimethyl Ether","Small molecule",0,386.44,17
+"1512","CHEMBL226588",NA,"N-Trans-Feruloylmethoxytyramine","Small molecule",0,343.38,8
+"1513","CHEMBL467981",NA,NA,"Small molecule",0,458.73,6
+"1514","CHEMBL504978",NA,NA,"Small molecule",0,250.26,8
+"1515","CHEMBL1976572",NA,"3-Epimacronine","Small molecule",0,329.35,55
+"1516","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"1517","CHEMBL516995","CRASSOCOLIDE D","Crassocolide D","Small molecule",0,334.46,4
+"1518","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1519","CHEMBL453315","QUESTIN","Questin","Small molecule",0,284.27,21
+"1520","CHEMBL3358623",NA,NA,"Small molecule",0,234.25,2
+"1521","CHEMBL1095680",NA,NA,"Small molecule",0,542.67,2
+"1522","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1523","CHEMBL3298958",NA,NA,"Small molecule",0,702.66,5
+"1524","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1525","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1526","CHEMBL1951406",NA,NA,"Small molecule",0,482.71,1
+"1527","CHEMBL220854",NA,NA,"Small molecule",0,1061.27,23
+"1528","CHEMBL490212","VERNOFLEXUOSIDE","Vernoflexuoside","Small molecule",0,408.45,1
+"1529","CHEMBL93355","KOPSININE","Kopsinine","Small molecule",0,338.45,1
+"1530","CHEMBL1910836",NA,NA,"Small molecule",0,1159.32,2
+"1531","CHEMBL486807","SUMARESINOLIC ACID","6Beta-Hydroxy-Oleanolic Acid","Small molecule",0,472.71,2
+"1532","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1533","CHEMBL226084","CYCLOARTENONE","Cycloartenone","Small molecule",0,424.71,4
+"1534","CHEMBL1223851",NA,NA,"Small molecule",0,328.32,3
+"1535","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1536","CHEMBL295602","METHYL BETULINATE","Methyl betulinate|betulinic acid methylester","Small molecule",0,470.74,72
+"1537","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"1538","CHEMBL2021475","SARCOCRASSOCOLIDE B",NA,"Small molecule",0,390.48,5
+"1539","CHEMBL1829658","DALBERGIN","Dalbergin","Small molecule",0,268.27,6
+"1540","CHEMBL141690","ISOBERGAPTENE",NA,"Small molecule",0,216.19,16
+"1541","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1542","CHEMBL222473","PSEUDOLARIC ACID A",NA,"Small molecule",0,388.46,3
+"1543","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1544","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"1545","CHEMBL549820","ALVARADOIN E","Alvaradoin E","Small molecule",0,430.41,4
+"1546","CHEMBL85826",NA,"10-Methoxylrutaecarpine","Small molecule",0,317.35,75
+"1547","CHEMBL1080768","USTUSOL B","Ustusol B","Small molecule",0,268.35,2
+"1548","CHEMBL518380",NA,NA,"Small molecule",0,494.5,1
+"1549","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"1550","CHEMBL457949",NA,"6-Deoxyjacareubin","Small molecule",0,310.31,15
+"1551","CHEMBL510842",NA,"9Beta-(3-Hydroxyisovaleryloxy)Parthenolide","Small molecule",0,364.44,8
+"1552","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"1553","CHEMBL273019","BERGENIN","BERGENIN|BERGENINUM|NSC-661749|NSC-757796|YANBAICAISU","Small molecule",0,328.27,39
+"1554","CHEMBL239296",NA,"3 Beta-Acetyl Tormentic Acid","Small molecule",0,530.75,10
+"1555","CHEMBL1079127","BISCARPAMONTAMINE B",NA,"Small molecule",0,746.9,5
+"1556","CHEMBL507971",NA,"8(12)-Drimene","Small molecule",0,206.37,5
+"1557","CHEMBL391628","ACUTUMINE","Acutumine","Small molecule",0,397.86,2
+"1558","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1559","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"1560","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"1561","CHEMBL459405","EPIGRANDISIN","Epigrandisin","Small molecule",0,432.51,5
+"1562","CHEMBL490810",NA,NA,"Small molecule",0,394.51,2
+"1563","CHEMBL509489","TAXUMAIROL W","taxumairol W","Small molecule",0,568.62,2
+"1564","CHEMBL1651023",NA,NA,"Small molecule",0,358.48,5
+"1565","CHEMBL510090","LYSICAMINE","Lysicamine|Oxonuciferine","Small molecule",0,291.31,22
+"1566","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1567","CHEMBL513223","CATALPOL","Catalpol","Small molecule",0,362.33,23
+"1568","CHEMBL1990190",NA,NA,"Small molecule",0,465.29,57
+"1569","CHEMBL486400","HEDERAGENIN","4-Epi-Hederagenin|Hederagenin","Small molecule",0,472.71,41
+"1570","CHEMBL3289099",NA,NA,"Small molecule",0,456.71,3
+"1571","CHEMBL457605","TAZETTINE","(+)-Tazettine","Small molecule",0,331.37,21
+"1572","CHEMBL477903","EUTIGOSIDE C","Eutigoside C","Small molecule",0,446.45,2
+"1573","CHEMBL2304288",NA,NA,"Small molecule",0,880.05,2
+"1574","CHEMBL1094863","JABOROSALACTONE 46","Jaborosalactone 46","Small molecule",0,484.59,5
+"1575","CHEMBL1968658",NA,NA,"Small molecule",0,306.36,70
+"1576","CHEMBL224814",NA,NA,"Small molecule",0,458.73,5
+"1577","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1578","CHEMBL484030",NA,NA,"Small molecule",0,258.23,8
+"1579","CHEMBL451983","ENCECALIN","Encecalin","Small molecule",0,232.28,17
+"1580","CHEMBL501316","ELAEODENDROSIDE V","elaeodendroside V","Small molecule",0,730.8,2
+"1581","CHEMBL459834","MATAIRESINOSIDE","Matairesinoside","Small molecule",0,520.53,4
+"1582","CHEMBL3093766",NA,NA,"Small molecule",0,348.44,5
+"1583","CHEMBL2297541",NA,NA,"Small molecule",0,152.24,3
+"1584","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1585","CHEMBL204860","MATRINE","Matrine","Small molecule",0,248.37,65
+"1586","CHEMBL392591",NA,NA,"Small molecule",0,258.23,26
+"1587","CHEMBL1991378",NA,NA,"Small molecule",0,526.58,51
+"1588","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1589","CHEMBL448502",NA,NA,"Small molecule",0,204.36,8
+"1590","CHEMBL197308","FERRUGINOL","Ferruginol","Small molecule",0,286.46,51
+"1591","CHEMBL467416","VISMIN","Vismin","Small molecule",0,392.5,3
+"1592","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1593","CHEMBL462743",NA,"(-)-Augustine","Small molecule",0,301.34,67
+"1594","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1595","CHEMBL127939",NA,NA,"Small molecule",0,430.53,7
+"1596","CHEMBL2298951","SITOSTERYL ACETATE",NA,"Small molecule",0,456.76,4
+"1597","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1598","CHEMBL517074","RAUTANDIOL A",NA,"Small molecule",0,340.38,2
+"1599","CHEMBL366760",NA,NA,"Small molecule",0,354.31,6
+"1600","CHEMBL2022567","AMAUROMINE","Amauromine","Small molecule",0,508.67,2
+"1601","CHEMBL2063764","FUNIFERINE","NSC-189487","Small molecule",0,622.76,2
+"1602","CHEMBL445435","STAMINOL D","staminol D","Small molecule",0,568.62,1
+"1603","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"1604","CHEMBL2437088","MANGLEXANTHONE",NA,"Small molecule",0,408.45,1
+"1605","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1606","CHEMBL495949","CALOTROPIN","Calotropin","Small molecule",0,532.63,71
+"1607","CHEMBL251480","FILIASPAROSIDE C","filiasparoside C","Small molecule",0,841.05,2
+"1608","CHEMBL2398515","HARPERAMONE",NA,"Small molecule",0,292.33,1
+"1609","CHEMBL464443","GONIOTHALAMIN","(R)-(+)-Goniothalamin|(R)-Goniothalamin|Goniothalamin","Small molecule",0,200.24,31
+"1610","CHEMBL493647",NA,"2-Deoxycucurbitacin D","Small molecule",0,500.68,3
+"1611","CHEMBL2003515",NA,NA,"Small molecule",0,314.29,60
+"1612","CHEMBL2335715",NA,"Hydroxy-Beta-Sanshool","Small molecule",0,263.38,5
+"1613","CHEMBL90555","VINCRISTINE","22-OXOVINCALEUKOBLASTINE|LEUCRISTINE|LEUROCRISTINE|ONCOTCS|TECNOCRIS|VINCALEUKOBLASTINE, 22-OXO-|VINCRISTIN|VINCRISTINE|VINKRISTIN|Vincristine","Small molecule",4,824.97,235
+"1614","CHEMBL466363",NA,NA,"Small molecule",0,476.74,17
+"1615","CHEMBL491639","DEHYDRONOBILIN","Dehydronobilin","Small molecule",0,344.41,1
+"1616","CHEMBL3394446",NA,NA,"Small molecule",0,506.6,1
+"1617","CHEMBL509319",NA,NA,"Small molecule",0,190.2,11
+"1618","CHEMBL452483","GUTTIFERONE A","Guttiferone A|Guttiferone-A","Small molecule",0,602.81,32
+"1619","CHEMBL450288","XANTHOXYLIN","Xanthoxylin","Small molecule",0,196.2,21
+"1620","CHEMBL1980408","NARCIPRIMINE","Narciprimine","Small molecule",0,271.23,57
+"1621","CHEMBL292945",NA,"5-Methoxy Podophyllotoxin|5-Methoxypodophyllotoxin","Small molecule",0,444.44,5
+"1622","CHEMBL226507","SINENSETIN","Sinensetin","Small molecule",0,372.37,36
+"1623","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1624","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1625","CHEMBL1976532",NA,NA,"Small molecule",0,326.3,55
+"1626","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1627","CHEMBL3808458",NA,NA,"Small molecule",0,368.39,1
+"1628","CHEMBL483414","PYRAMIDATINE","Pyramidatine","Small molecule",0,322.41,8
+"1629","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1630","CHEMBL469284","BETULONE","Betulone","Small molecule",0,440.71,33
+"1631","CHEMBL486393","LUPENONE","Lupenone|Lupeone","Small molecule",0,424.71,38
+"1632","CHEMBL111134","HYDROXYCHAVICOL","Hydroxychavicol","Small molecule",0,150.18,29
+"1633","CHEMBL555017","GAMBOGIC ACID","(-)-Gambogic Acid|Gambogic Acid|R-Gambogic Acid","Small molecule",0,628.76,74
+"1634","CHEMBL522112",NA,"NSC-176323","Small molecule",0,378.38,75
+"1635","CHEMBL89905","4'-DEMETHYLDEOXYPODOPHYLLOTOXIN","4'-Demethyldeoxypodophyllotoxin|4-Demethyl-Deoxypodophyllotoxin","Small molecule",0,384.38,34
+"1636","CHEMBL470658","CHITRANONE","Chitranone","Small molecule",0,374.35,13
+"1637","CHEMBL486986","POMOLIC ACID","Pomolic Acid","Small molecule",0,472.71,69
+"1638","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1639","CHEMBL450288","XANTHOXYLIN","Xanthoxylin","Small molecule",0,196.2,21
+"1640","CHEMBL504757","ISOTETRANDRINE","(R,S)-TETRANDRINE|1-ISOTETRANDRINE|ISOSINOMENIN A|ISOSINOMENINE A|ISOTETRANDRINE|NSC-97338|O,O'-DIMETHYLOBAMEGINE|O,O'-DIMETHYLSTEPHOLINE|O-METHYLBERBAMINE","Small molecule",0,622.76,67
+"1641","CHEMBL1762127",NA,NA,"Small molecule",0,450.7,3
+"1642","CHEMBL452201",NA,"(-)-Xylopine","Small molecule",0,295.34,10
+"1643","CHEMBL511805","ALPHITOLIC ACID","Alphitolic Acid","Small molecule",0,472.71,19
+"1644","CHEMBL3632934",NA,NA,"Small molecule",0,614.86,2
+"1645","CHEMBL1241050",NA,NA,"Small molecule",0,236.27,8
+"1646","CHEMBL426753","MOGROSIDE III A2","mogroside III A2","Small molecule",0,963.16,3
+"1647","CHEMBL463317","VOACRISTINE","19(S)-Heyneanine","Small molecule",0,384.48,6
+"1648","CHEMBL507001","DIOSCIN","Dioscin","Small molecule",0,869.06,60
+"1649","CHEMBL557810",NA,"5-Methoxymethylrhazinilam","Small molecule",0,338.45,2
+"1650","CHEMBL3358070",NA,NA,"Small molecule",0,326.44,2
+"1651","CHEMBL1165590","VINDOLININE","Vindolinine","Small molecule",0,336.44,5
+"1652","CHEMBL459267",NA,"6-Methoxy-Tremetone","Small molecule",0,232.28,8
+"1653","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1654","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1655","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"1656","CHEMBL1224369",NA,NA,"Small molecule",0,326.3,2
+"1657","CHEMBL1967951",NA,NA,"Small molecule",0,457.43,59
+"1658","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"1659","CHEMBL455056","CUCURBITACIN E","Cucurbitacin E","Small molecule",0,556.7,97
+"1660","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1661","CHEMBL1949694","GYPENSAPOGENIN D","Gypensapogenin D","Small molecule",0,454.7,3
+"1662","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"1663","CHEMBL447997",NA,"Iso-Gamma-Fagarine","Small molecule",0,229.24,11
+"1664","CHEMBL457820","DICHOTOMINE B",NA,"Small molecule",0,272.26,1
+"1665","CHEMBL243829","FLAVOKAWAIN A",NA,"Small molecule",0,314.34,38
+"1666","CHEMBL491174","PRUNETIN","Prunetin","Small molecule",0,284.27,27
+"1667","CHEMBL3233972",NA,NA,"Small molecule",0,334.46,6
+"1668","CHEMBL25948","SHOGAOL","6-Shogaol|Trans-6-Shogaol","Small molecule",0,276.38,38
+"1669","CHEMBL458847",NA,NA,"Small molecule",0,314.29,3
+"1670","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"1671","CHEMBL25948","SHOGAOL","6-Shogaol|Trans-6-Shogaol","Small molecule",0,276.38,38
+"1672","CHEMBL450497","LUTEOSIDE B","luteoside B","Small molecule",0,756.71,3
+"1673","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"1674","CHEMBL2012419","PHOYUNBENE D","Phoyunbene D","Small molecule",0,286.33,3
+"1675","CHEMBL224481","CABRALEONE","Cabraleone","Small molecule",0,458.73,11
+"1676","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1677","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"1678","CHEMBL182120","VOACANGINE","Voacangine","Small molecule",0,368.48,16
+"1679","CHEMBL518601","ROCAGLOIC ACID","Rocagloic Acid","Small molecule",0,478.5,11
+"1680","CHEMBL464877","DESACYLCYNAROPICRIN","Desacylcynaropicrin","Small molecule",0,262.3,8
+"1681","CHEMBL461207","NOTOAMIDE F","Notoamide F","Small molecule",0,461.56,1
+"1682","CHEMBL1801976",NA,"N-Acetylgitingensine","Small molecule",0,371.52,1
+"1683","CHEMBL2334868","MICROGREWIAPINE A","Microgrewiapine A","Small molecule",0,263.43,4
+"1684","CHEMBL479282","DIELSIQUINONE","Dielsiquinone","Small molecule",0,269.26,5
+"1685","CHEMBL238628","ALPINUMISOFLAVONE","Alpinum Isoflavone|Alpinumisoflavone","Small molecule",0,336.34,18
+"1686","CHEMBL250872","SYRINGIN","Syringin","Small molecule",0,372.37,20
+"1687","CHEMBL1215434","PHYSALIN F","Physalin F","Small molecule",0,526.54,28
+"1688","CHEMBL519099","(+)-EUDESMIN","(+)-Eudesmin|(+)-Pinoresinol Dimethyl Ether","Small molecule",0,386.44,17
+"1689","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"1690","CHEMBL1928000","CLETHROIDOSIDE F","clethroidoside F","Small molecule",0,1163.31,5
+"1691","CHEMBL525180",NA,NA,"Small molecule",0,434.66,2
+"1692","CHEMBL1230782",NA,"L-Alpha-Aminobutyric Acid","Small molecule",0,103.12,2
+"1693","CHEMBL398325","TYLOPHORININE","Tylophorinine","Small molecule",0,379.46,63
+"1694","CHEMBL465075","JABOROSALACTONE A",NA,"Small molecule",0,454.61,4
+"1695","CHEMBL73991","TERNATIN","Ternatin","Small molecule",0,374.35,75
+"1696","CHEMBL518262","ERYTHRALINE","Erythraline","Small molecule",0,297.35,1
+"1697","CHEMBL452184","OBOLACTONE","Obolactone","Small molecule",0,310.35,7
+"1698","CHEMBL1078839",NA,"10'R-Karatavicinol","Small molecule",0,400.52,7
+"1699","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"1700","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1701","CHEMBL1689801","7-HYDROXYHEPTAPHYLLINE","7-Hydroxyheptaphylline","Small molecule",0,295.34,7
+"1702","CHEMBL486599",NA,NA,"Small molecule",0,258.23,3
+"1703","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1704","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1705","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1706","CHEMBL3309442",NA,NA,"Small molecule",0,356.37,1
+"1707","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1708","CHEMBL373982","PSEUDOLARIC ACID C2","Pseudolaric Acid C2","Small molecule",0,418.44,15
+"1709","CHEMBL504757","ISOTETRANDRINE","(R,S)-TETRANDRINE|1-ISOTETRANDRINE|ISOSINOMENIN A|ISOSINOMENINE A|ISOTETRANDRINE|NSC-97338|O,O'-DIMETHYLOBAMEGINE|O,O'-DIMETHYLSTEPHOLINE|O-METHYLBERBAMINE","Small molecule",0,622.76,67
+"1710","CHEMBL1669185","CHLORAEUDOLIDE","Chloraeudolide","Small molecule",0,282.34,9
+"1711","CHEMBL2003988",NA,NA,"Small molecule",0,160.21,54
+"1712","CHEMBL292945",NA,"5-Methoxy Podophyllotoxin|5-Methoxypodophyllotoxin","Small molecule",0,444.44,5
+"1713","CHEMBL250872","SYRINGIN","Syringin","Small molecule",0,372.37,20
+"1714","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1715","CHEMBL108862","CHAVICOL","4-Allyl-Phenol","Small molecule",0,134.18,4
+"1716","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"1717","CHEMBL509005","ORTHOSIPHOL U","Orthosiphol U","Small molecule",0,614.69,1
+"1718","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"1719","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"1720","CHEMBL523290",NA,"8-Acetylharpagide|8-O-Acetylharpagide","Small molecule",0,406.38,9
+"1721","CHEMBL513197","SANDARACOPIMARIC ACID","Sandaracopimaric Acid","Small molecule",0,302.46,11
+"1722","CHEMBL462959","ROSTRATIN A","Rostratin A","Small molecule",0,428.53,9
+"1723","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1724","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"1725","CHEMBL1652224","AMIJIOL-7,10-DIACETATE","Amijiol-7,10-Diacetate","Small molecule",0,420.55,7
+"1726","CHEMBL458347","GLAUCARUBINONE","NSC-14975","Small molecule",0,494.54,84
+"1727","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1728","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1729","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1730","CHEMBL396085","CEPHARADIONE B","cepharadione B","Small molecule",0,321.33,6
+"1731","CHEMBL468876",NA,NA,"Small molecule",0,328.32,11
+"1732","CHEMBL512541","PODORHIZOL","Podorhizol","Small molecule",0,416.43,8
+"1733","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1734","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"1735","CHEMBL486986","POMOLIC ACID","Pomolic Acid","Small molecule",0,472.71,69
+"1736","CHEMBL1221986","WITHAFERIN A","NSC-101088","Small molecule",0,470.61,48
+"1737","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1738","CHEMBL1254507","GENTISIDE K","Gentiside K","Small molecule",0,490.77,1
+"1739","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1740","CHEMBL518356","CALANOLIDE F","Calanolide F","Small molecule",0,370.45,3
+"1741","CHEMBL463045","JABOROSALACTONE 1","Jaborosalactone 1|Jaborosalactone1","Small molecule",0,464.56,8
+"1742","CHEMBL1087512","LECANINDOLE B",NA,"Small molecule",0,351.49,6
+"1743","CHEMBL3109322",NA,NA,"Small molecule",0,428.7,4
+"1744","CHEMBL2332349",NA,NA,"Small molecule",0,538.5,6
+"1745","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"1746","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"1747","CHEMBL453802","LUPENYL ACETATE","Lupenyl Acetate|Lupeol Acetate|Lupeyl Acetate","Small molecule",0,468.77,12
+"1748","CHEMBL507459",NA,NA,"Small molecule",0,726.9,1
+"1749","CHEMBL488203","INTEGERRIMINE","Integerrimine","Small molecule",0,335.4,8
+"1750","CHEMBL463602",NA,NA,"Small molecule",0,262.3,10
+"1751","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"1752","CHEMBL500276","MONTACIN","Montacin","Small molecule",0,610.87,9
+"1753","CHEMBL78010","PECTOLINARIGENIN","NSC-106403","Small molecule",0,314.29,61
+"1754","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1755","CHEMBL512631","FORRESTIN C","Forrestin C","Small molecule",0,494.58,3
+"1756","CHEMBL505789","HORDENINE","Hordenine","Small molecule",0,165.24,7
+"1757","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1758","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1759","CHEMBL473465","MARCANIN A",NA,"Small molecule",0,239.23,8
+"1760","CHEMBL307373",NA,NA,"Small molecule",0,376.32,59
+"1761","CHEMBL464176",NA,"13-Epi-Sclareol|13-Epi-Scloreol","Small molecule",0,308.51,40
+"1762","CHEMBL462801","Rapanone",NA,"Small molecule",0,322.45,14
+"1763","CHEMBL464115","ORTHOSIPHONONE C","Orthosiphonone C","Small molecule",0,528.6,1
+"1764","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1765","CHEMBL518704",NA,NA,"Small molecule",0,524.56,3
+"1766","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1767","CHEMBL108861","METHYLEUGENOL","Methyl Eugenol|Methyleugenol","Small molecule",0,178.23,52
+"1768","CHEMBL499727",NA,NA,"Small molecule",0,1031.2,2
+"1769","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1770","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"1771","CHEMBL1957989",NA,NA,"Small molecule",0,444.53,4
+"1772","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1773","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"1774","CHEMBL138270",NA,"6-Hydroxythiobinupharidine","Small molecule",0,510.74,4
+"1775","CHEMBL488748","MONOMARGINE","Monomargine","Small molecule",0,248.24,3
+"1776","CHEMBL77588",NA,NA,"Small molecule",0,360.32,3
+"1777","CHEMBL230589",NA,NA,"Small molecule",0,230.26,2
+"1778","CHEMBL490355","SULFURETIN","Sulfuretin","Small molecule",0,270.24,97
+"1779","CHEMBL93355","KOPSININE","Kopsinine","Small molecule",0,338.45,1
+"1780","CHEMBL1254430","GENTISIDE I","Gentiside I","Small molecule",0,448.69,1
+"1781","CHEMBL523730","ORTHOSIPHOL Y","11-Debenzoyloxyorthosiphol D","Small molecule",0,448.51,1
+"1782","CHEMBL1968658",NA,NA,"Small molecule",0,306.36,70
+"1783","CHEMBL1240592",NA,"(S)-Goniothalamin","Small molecule",0,200.24,14
+"1784","CHEMBL564301","TABERNAEMONTANINE","Tabernaemontanine","Small molecule",0,354.45,5
+"1785","CHEMBL448502",NA,NA,"Small molecule",0,204.36,8
+"1786","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1787","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"1788","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"1789","CHEMBL575125","CARANINE","Caranine","Small molecule",0,271.32,6
+"1790","CHEMBL376350",NA,"24-Methylenecycloartanol","Small molecule",0,440.76,4
+"1791","CHEMBL2007233",NA,NA,"Small molecule",0,457.43,66
+"1792","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"1793","CHEMBL1923076",NA,NA,"Small molecule",0,448.42,3
+"1794","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"1795","CHEMBL1223852",NA,"Alpha-Tocopherylquinone","Small molecule",0,446.72,27
+"1796","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"1797","CHEMBL1829658","DALBERGIN","Dalbergin","Small molecule",0,268.27,6
+"1798","CHEMBL234717",NA,NA,"Small molecule",0,356.33,2
+"1799","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"1800","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1801","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1802","CHEMBL1215114","CIPADESIN Q","Cipadesin Q","Small molecule",0,530.61,5
+"1803","CHEMBL501316","ELAEODENDROSIDE V","elaeodendroside V","Small molecule",0,730.8,2
+"1804","CHEMBL509471",NA,"11,19-Dideoxyfistularin-3","Small molecule",0,1082.02,4
+"1805","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"1806","CHEMBL461985",NA,NA,"Small molecule",0,192.21,12
+"1807","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1808","CHEMBL218538","CASEANIGRESCEN C","Caseanigrescen C","Small molecule",0,562.66,1
+"1809","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"1810","CHEMBL1784743","TRIGOHOWNIN A","Trigohownin A","Small molecule",0,734.8,1
+"1811","CHEMBL3264622",NA,NA,"Small molecule",0,302.33,1
+"1812","CHEMBL3121587",NA,NA,"Small molecule",0,532.76,4
+"1813","CHEMBL491174","PRUNETIN","Prunetin","Small molecule",0,284.27,27
+"1814","CHEMBL2386702",NA,NA,"Small molecule",0,522.59,4
+"1815","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1816","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"1817","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1818","CHEMBL3120657",NA,"(-)-Allo-Aromadendrene","Small molecule",0,204.36,9
+"1819","CHEMBL1967731",NA,NA,"Small molecule",0,147.13,58
+"1820","CHEMBL164660","PSORALEN","FICUSIN|NSC-404562|PSORALEN","Small molecule",1,186.17,55
+"1821","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1822","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"1823","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1824","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1825","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1826","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1827","CHEMBL2148106","DEBROMOAPLYSIATOXIN","Debromoaplysiatoxin","Small molecule",0,592.73,18
+"1828","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"1829","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1830","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"1831","CHEMBL453558","JAPONICONE A",NA,"Small molecule",0,536.67,4
+"1832","CHEMBL47386","EPIGALLOCATECHIN","(-)-Epigallocatechin|Epigallocatechin","Small molecule",0,306.27,116
+"1833","CHEMBL238188","OSAJIN",NA,"Small molecule",0,404.46,71
+"1834","CHEMBL1080122","ERIOBOFURAN","Eriobofuran","Small molecule",0,244.25,4
+"1835","CHEMBL1992900",NA,NA,"Small molecule",0,374.35,62
+"1836","CHEMBL137803","ISOALANTOLACTONE","Iso-Alantolacton|Isoalantolactone","Small molecule",0,232.32,26
+"1837","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"1838","CHEMBL464952",NA,NA,"Small molecule",0,404.46,1
+"1839","CHEMBL244969","(+/-)-ANTOFINE","(+/-)-Antofine","Small molecule",0,363.46,10
+"1840","CHEMBL3426505",NA,NA,"Small molecule",0,302.46,8
+"1841","CHEMBL73930","TANGERETIN","NSC-53909","Small molecule",0,372.37,99
+"1842","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1843","CHEMBL561084",NA,NA,"Small molecule",0,280.32,2
+"1844","CHEMBL453876","MAMMEA A/AC",NA,"Small molecule",0,392.45,2
+"1845","CHEMBL123","ELLIPTECINE","Ellipticine|TCMDC-125546","Small molecule",0,246.31,283
+"1846","CHEMBL464889",NA,NA,"Small molecule",0,364.35,5
+"1847","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"1848","CHEMBL461608","RHUSCHALCONE II","rhuschalcone II","Small molecule",0,510.5,58
+"1849","CHEMBL53566","TYROSOL","tyrosol","Small molecule",0,138.17,33
+"1850","CHEMBL1087512","LECANINDOLE B",NA,"Small molecule",0,351.49,6
+"1851","CHEMBL495276","DIGIFERRUGINOL","Digiferruginol","Small molecule",0,254.24,1
+"1852","CHEMBL1095348","CHIKUSETSUSAPONIN IVA","Chikusetsusaponin Iva","Small molecule",0,794.98,11
+"1853","CHEMBL1628271","VOBASINE","Vobasine","Small molecule",0,352.43,4
+"1854","CHEMBL451168","BUTIN","(-)-BUTIN|BUTIN","Small molecule",0,272.26,4
+"1855","CHEMBL481972","PEDICIN","Pedicin","Small molecule",0,330.34,54
+"1856","CHEMBL465800",NA,NA,"Small molecule",0,510.54,9
+"1857","CHEMBL234716","GLAZIOVIANIN A",NA,"Small molecule",0,386.36,39
+"1858","CHEMBL514350",NA,NA,"Small molecule",0,516.76,1
+"1859","CHEMBL1835966","ISOCHAMANETIN","Isochamanetin","Small molecule",0,362.38,3
+"1860","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1861","CHEMBL462894","GENIPOSIDE","Geniposide","Small molecule",0,388.37,15
+"1862","CHEMBL502366","CAROLIN A",NA,"Small molecule",0,622.93,2
+"1863","CHEMBL25080","DL-PHENYLALANINE",NA,"Small molecule",0,165.19,59
+"1864","CHEMBL117","CHRYSIN","NSC-407436","Small molecule",0,254.24,245
+"1865","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"1866","CHEMBL507323","HALIGRAMIDE A",NA,"Small molecule",0,784.04,4
+"1867","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"1868","CHEMBL469670",NA,NA,"Small molecule",0,314.43,7
+"1869","CHEMBL519713",NA,NA,"Small molecule",0,264.32,1
+"1870","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1871","CHEMBL1081414","SHANZHISIDE METHYL ESTER","Shanzhiside Methyl Ester","Small molecule",0,406.38,6
+"1872","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"1873","CHEMBL1095954",NA,"(E)-Cinnamyl (E)-Cinnamate","Small molecule",0,264.32,3
+"1874","CHEMBL455056","CUCURBITACIN E","Cucurbitacin E","Small molecule",0,556.7,97
+"1875","CHEMBL1835968","DICHAMANETIN","Dichamanetin","Small molecule",0,468.51,7
+"1876","CHEMBL251251","Rubiadin",NA,"Small molecule",0,254.24,6
+"1877","CHEMBL24171","BERGAPTEN","5-METHOXYPSORALEN|BERGAPTAN|BERGAPTEN|BERGAPTENE|Bergapten|GERALEN|HERACLIN|MAJUDIN|METHOXSALEN RELATED COMPOUND A|NSC-95437","Small molecule",4,216.19,119
+"1878","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"1879","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1880","CHEMBL434750","ERGOSTEROL PEROXIDE","Ergosterol Peroxide","Small molecule",0,428.66,26
+"1881","CHEMBL556064",NA,NA,"Small molecule",0,580.67,3
+"1882","CHEMBL226084","CYCLOARTENONE","Cycloartenone","Small molecule",0,424.71,4
+"1883","CHEMBL501769","CAMELLIASIDE B",NA,"Small molecule",0,726.64,3
+"1884","CHEMBL3355661",NA,NA,"Small molecule",0,260.29,4
+"1885","CHEMBL400538","COMAPARVIN","Comaparvin","Small molecule",0,300.31,5
+"1886","CHEMBL237766","PRONUCIFERINE","Pronuciferine","Small molecule",0,311.38,58
+"1887","CHEMBL469645","HELIOSCOPINOLIDE A",NA,"Small molecule",0,316.44,11
+"1888","CHEMBL1973570",NA,NA,"Small molecule",0,314.43,54
+"1889","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"1890","CHEMBL445279","(+)-MAACKIAIN",NA,"Small molecule",0,284.27,10
+"1891","CHEMBL449767","DESGLUCOUZARIN","Deglucouzarin|Desglucouzarin","Small molecule",0,536.66,14
+"1892","CHEMBL1288124",NA,NA,"Small molecule",0,346.42,4
+"1893","CHEMBL455041","ALPHA-PHELLANDRENE","Alpha-Phellandrene","Small molecule",0,136.24,4
+"1894","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"1895","CHEMBL22533","DICTAMNINE","4-Methoxyfuro[2,3-B]Quinoline|Dictamine|Dictamnine","Small molecule",0,199.21,19
+"1896","CHEMBL521803",NA,"Triptogelin C-1","Small molecule",0,516.59,3
+"1897","CHEMBL468447","FERRUGININ B",NA,"Small molecule",0,460.61,3
+"1898","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1899","CHEMBL1814426","SANICULAMOID D","Saniculamoid D","Small molecule",0,222.33,9
+"1900","CHEMBL489967",NA,"O-Demethylbuchenavianine","Small molecule",0,351.4,13
+"1901","CHEMBL1795464","PRENYLTERPHENYLLIN","Prenylterphenyllin","Small molecule",0,406.48,7
+"1902","CHEMBL464750","SANDWICENSIN","Sandwicensin","Small molecule",0,338.4,2
+"1903","CHEMBL446253",NA,"Methyl Carbazole-3-Carboxylate","Small molecule",0,225.25,12
+"1904","CHEMBL469649","ANIBAMINE","Anibamine|Anibamine Tfa","Small molecule",0,537.75,20
+"1905","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"1906","CHEMBL1086907",NA,NA,"Small molecule",0,520.53,2
+"1907","CHEMBL3104849",NA,NA,"Small molecule",0,622.84,4
+"1908","CHEMBL457605","TAZETTINE","(+)-Tazettine","Small molecule",0,331.37,21
+"1909","CHEMBL93355","KOPSININE","Kopsinine","Small molecule",0,338.45,1
+"1910","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1911","CHEMBL221760","PHELLIGRIDIN I","Phelligridin I","Small molecule",0,624.51,7
+"1912","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"1913","CHEMBL187266","TANSHINONE IIA","Tanshinone IIA","Small molecule",0,294.35,152
+"1914","CHEMBL1172810","HAEMANTHAMINE","Haemanthamine","Small molecule",0,301.34,12
+"1915","CHEMBL497442","NEOVIBSANIN I","Neovibsanin I","Small molecule",0,416.56,1
+"1916","CHEMBL520721","AGUERIN B",NA,"Small molecule",0,330.38,12
+"1917","CHEMBL400538","COMAPARVIN","Comaparvin","Small molecule",0,300.31,5
+"1918","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"1919","CHEMBL457304",NA,NA,"Small molecule",0,464.38,2
+"1920","CHEMBL1927831","EUPHORBIAPROLIFERIN B","Euphorbiaproliferin B","Small molecule",0,846.92,1
+"1921","CHEMBL608410","PINOBAKSIN","(2R,3R)-Pinobanksin|Pinobaksin","Small molecule",0,272.26,8
+"1922","CHEMBL458245","EPIHIPPURISTANOL","22-Epi-Hippuristanol|Epihippuristanol","Small molecule",0,462.67,9
+"1923","CHEMBL451518",NA,"NSC-324637","Small molecule",0,222.2,9
+"1924","CHEMBL487994",NA,NA,"Small molecule",0,446.41,3
+"1925","CHEMBL511805","ALPHITOLIC ACID","Alphitolic Acid","Small molecule",0,472.71,19
+"1926","CHEMBL3581586",NA,NA,"Small molecule",0,526.8,6
+"1927","CHEMBL487609",NA,NA,"Small molecule",0,482.75,2
+"1928","CHEMBL366760",NA,NA,"Small molecule",0,354.31,6
+"1929","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"1930","CHEMBL1974356",NA,NA,"Small molecule",0,386.36,57
+"1931","CHEMBL222473","PSEUDOLARIC ACID A",NA,"Small molecule",0,388.46,3
+"1932","CHEMBL2021474","SARCOCRASSOCOLIDE A",NA,"Small molecule",0,390.48,5
+"1933","CHEMBL488203","INTEGERRIMINE","Integerrimine","Small molecule",0,335.4,8
+"1934","CHEMBL3138639",NA,NA,"Small molecule",0,386.66,3
+"1935","CHEMBL447116","ACROPHYLLINE","Acrophylline","Small molecule",0,283.33,62
+"1936","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1937","CHEMBL562046","RABDOKUNMIN D","Rabdokunmin D","Small molecule",0,350.46,8
+"1938","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"1939","CHEMBL511805","ALPHITOLIC ACID","Alphitolic Acid","Small molecule",0,472.71,19
+"1940","CHEMBL1284","3,4-DIHYDROXYPHENYLACETIC ACID","3,4-Dihydroxyphenylacetic Acid (Dopac)","Small molecule",0,168.15,56
+"1941","CHEMBL509874",NA,NA,"Small molecule",0,301.3,4
+"1942","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"1943","CHEMBL454476",NA,"(-)-Curine","Small molecule",0,608.74,3
+"1944","CHEMBL255712","MALLEASTRONE C","Malleastrone C","Small molecule",0,600.66,5
+"1945","CHEMBL508537","ISOSECOTANAPARTHOLIDE","Isosecotanapartholide","Small molecule",0,278.3,1
+"1946","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1947","CHEMBL296411","TRISMETHOXYRESVERATROL","(E)-3,5,4'-Trimethoxystilbene|(E)-3,5,40-Trimethoxystilbene|3,5,4'-Trimethoxystilbene|8E-3,4',5-Trimethoxystilbene|Trans-3,4',5-Trimethoxystilbene|Trismethoxyresveratrol","Small molecule",0,270.33,113
+"1948","CHEMBL1978293",NA,NA,"Small molecule",0,738.78,58
+"1949","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"1950","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"1951","CHEMBL451919","Primin",NA,"Small molecule",0,208.26,8
+"1952","CHEMBL469284","BETULONE","Betulone","Small molecule",0,440.71,33
+"1953","CHEMBL3357580",NA,NA,"Small molecule",0,586.68,3
+"1954","CHEMBL3093770",NA,NA,"Small molecule",0,378.42,5
+"1955","CHEMBL1240592",NA,"(S)-Goniothalamin","Small molecule",0,200.24,14
+"1956","CHEMBL503931","BRUGUIERIN C","bruguierin C","Small molecule",0,759.21,3
+"1957","CHEMBL447116","ACROPHYLLINE","Acrophylline","Small molecule",0,283.33,62
+"1958","CHEMBL523681","GLAUCARUBOLONE","NSC-126764","Small molecule",0,394.42,12
+"1959","CHEMBL465656",NA,NA,"Small molecule",0,474.68,6
+"1960","CHEMBL465843","PIPLARTINE","Piplartine","Small molecule",0,317.34,100
+"1961","CHEMBL2011505","MELODININE N","Melodinine N","Small molecule",0,366.46,5
+"1962","CHEMBL1223740","CRYPTOCHINONE A",NA,"Small molecule",0,300.31,6
+"1963","CHEMBL19612","SPERMIDINE","Spermidine","Small molecule",0,145.25,77
+"1964","CHEMBL1689806","CLAUSINE K","Clausine K","Small molecule",0,271.27,7
+"1965","CHEMBL508955","AKUAMMICINE","Akuammicine","Small molecule",0,322.41,13
+"1966","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"1967","CHEMBL454218","IPOMOEASSIN B",NA,"Small molecule",0,760.87,6
+"1968","CHEMBL521297","ODORINE","Odorine","Small molecule",0,300.4,14
+"1969","CHEMBL463915",NA,"10'(Z)-Heptadecenylhydroquinone","Small molecule",0,346.56,10
+"1970","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"1971","CHEMBL1974890","CEDROL","Cedrol","Small molecule",0,222.37,73
+"1972","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"1973","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"1974","CHEMBL1081584","LOGANIN","Loganin","Small molecule",0,390.39,15
+"1975","CHEMBL376915",NA,NA,"Small molecule",0,340.38,15
+"1976","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1977","CHEMBL1672002","THYMOQUINONE","NSC-2228|P-CYMENE-2,5-DIONE|P-MENTHA-3,6-DIENE-2,5-DIONE|THYMOQUINON|THYMOQUINONE","Small molecule",2,164.2,30
+"1978","CHEMBL529220",NA,NA,"Small molecule",0,306.36,7
+"1979","CHEMBL443199",NA,NA,"Small molecule",0,562.66,4
+"1980","CHEMBL257490","HENTRIACONTANE","Hentriacontane|N-Hentriacontane","Small molecule",0,436.85,2
+"1981","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"1982","CHEMBL3262774",NA,NA,"Small molecule",0,614.55,4
+"1983","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"1984","CHEMBL53566","TYROSOL","tyrosol","Small molecule",0,138.17,33
+"1985","CHEMBL225870",NA,NA,"Small molecule",0,442.73,9
+"1986","CHEMBL1778417","PRUNASIN","Prunasin","Small molecule",0,295.29,2
+"1987","CHEMBL483208","NEOISOSTEGANE","Neoisostegane","Small molecule",0,414.45,1
+"1988","CHEMBL3039223","PERILLIC ACID (-)",NA,"Small molecule",0,166.22,3
+"1989","CHEMBL470658","CHITRANONE","Chitranone","Small molecule",0,374.35,13
+"1990","CHEMBL89905","4'-DEMETHYLDEOXYPODOPHYLLOTOXIN","4'-Demethyldeoxypodophyllotoxin|4-Demethyl-Deoxypodophyllotoxin","Small molecule",0,384.38,34
+"1991","CHEMBL3093768",NA,NA,"Small molecule",0,362.42,5
+"1992","CHEMBL2374363",NA,NA,"Small molecule",0,534.6,18
+"1993","CHEMBL23236","BETULIN","Betulin","Small molecule",0,442.73,154
+"1994","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"1995","CHEMBL1795459","PRENYLTERPHENYLLIN B","Prenylterphenyllin B","Small molecule",0,406.48,3
+"1996","CHEMBL485998","FRIEDELINE","Friedelin|Friedeline","Small molecule",0,426.73,25
+"1997","CHEMBL556429",NA,NA,"Small molecule",0,354.4,3
+"1998","CHEMBL484246","ADENANTHIN F","Adenanthin F","Small molecule",0,434.53,1
+"1999","CHEMBL463711",NA,NA,"Small molecule",0,272.3,6
+"2000","CHEMBL504404","PHYSALIN B","NSC-287088","Small molecule",0,510.54,26
+"2001","CHEMBL373432","BIKAVERIN","Bikaverin","Small molecule",0,382.32,59
+"2002","CHEMBL486058","WEISIENSIN A",NA,"Small molecule",0,492.57,3
+"2003","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"2004","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
+"2005","CHEMBL3597665",NA,NA,"Small molecule",0,370.45,3
+"2006","CHEMBL474468","BISINDIGOTIN","Bisindigotin","Small molecule",0,490.52,1
+"2007","CHEMBL497756","(+/-)-DEOXYTYLOPHORININE","(+/-)-Deoxypergularinine","Small molecule",0,363.46,5
+"2008","CHEMBL583716",NA,NA,"Small molecule",0,287.31,4
+"2009","CHEMBL452952","WITHAPHYSACARPIN","Withaphysacarpin","Small molecule",0,488.62,6
+"2010","CHEMBL2206793","MANSONONE G","Mansonone G","Small molecule",0,244.29,3
+"2011","CHEMBL1278089","CHOLESTAN-3beta,5alpha,6beta-TRIOL","3Beta,5Alpha,6Beta-Trihydroxycholestanol","Small molecule",0,420.68,17
+"2012","CHEMBL459815","GEROQUINOL","GERANYLHYDROQUINONE|GEROQUINOL","Small molecule",0,246.35,17
+"2013","CHEMBL522923","MONOCARPINE","Monocarpine","Small molecule",0,468.72,1
+"2014","CHEMBL1081586",NA,"7-Epi-Loganin|8-Epiloganin","Small molecule",0,390.39,6
+"2015","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"2016","CHEMBL477970",NA,NA,"Small molecule",0,430.67,4
+"2017","CHEMBL521624",NA,"3-Methoxyminimiflorin","Small molecule",0,436.5,8
+"2018","CHEMBL2023568","ELLIPTINONE","Elliptinone","Small molecule",0,374.35,1
+"2019","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"2020","CHEMBL388342","BOLDINE","(+)-Boldine|(S)-(+)-Boldine|Boldine","Small molecule",0,327.38,37
+"2021","CHEMBL3401057",NA,NA,"Small molecule",0,290.27,2
+"2022","CHEMBL241608","CALYCOSIN","Calycosin","Small molecule",0,284.27,34
+"2023","CHEMBL74923",NA,NA,"Small molecule",0,420.37,56
+"2024","CHEMBL197308","FERRUGINOL","Ferruginol","Small molecule",0,286.46,51
+"2025","CHEMBL245750","YUNNANXANE","Yunnanxane","Small molecule",0,562.7,5
+"2026","CHEMBL3589108",NA,NA,"Small molecule",0,552.49,2
+"2027","CHEMBL1998453",NA,NA,"Small molecule",0,358.39,57
+"2028","CHEMBL1958058",NA,NA,"Small molecule",0,379.46,3
+"2029","CHEMBL234717",NA,NA,"Small molecule",0,356.33,2
+"2030","CHEMBL487017","APIGETRIN","NSC-407303","Small molecule",0,432.38,101
+"2031","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"2032","CHEMBL51628","UMBELLIFERONE","NSC-019790","Small molecule",0,162.14,171
+"2033","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"2034","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"2035","CHEMBL1081584","LOGANIN","Loganin","Small molecule",0,390.39,15
+"2036","CHEMBL505211","ORTHOSIPHONONE D","Orthosiphonone D","Small molecule",0,632.71,1
+"2037","CHEMBL464587",NA,"9Alpha-Hydroxyparthenolide","Small molecule",0,264.32,25
+"2038","CHEMBL75978","5-DEMETHYLNOBILETIN","5-demethyl nobiletin|5-demethylnobiletin","Small molecule",0,388.37,70
+"2039","CHEMBL499185",NA,NA,"Small molecule",0,1215.34,1
+"2040","CHEMBL3355661",NA,NA,"Small molecule",0,260.29,4
+"2041","CHEMBL444821",NA,NA,"Small molecule",0,297.4,4
+"2042","CHEMBL1644112",NA,"8Alpha,15-Dihydroxy-13Elabdene","Small molecule",0,308.51,63
+"2043","CHEMBL87333","CIS-RESVERATROL","(Z)-Resveratrol|Cis-Resveratrol","Small molecule",0,228.25,54
+"2044","CHEMBL253263",NA,"(+)-Vesticarpan","Small molecule",0,286.28,6
+"2045","CHEMBL1835966","ISOCHAMANETIN","Isochamanetin","Small molecule",0,362.38,3
+"2046","CHEMBL278779","KOKUSAGININE","Kokusaginine","Small molecule",0,259.26,27
+"2047","CHEMBL1795548",NA,NA,"Small molecule",0,346.56,2
+"2048","CHEMBL428955","NONACOSANE","Nonacosane","Small molecule",0,408.8,1
+"2049","CHEMBL1689795","CLAURAILAS A","Claurailas A","Small molecule",0,255.27,3
+"2050","CHEMBL522112",NA,"NSC-176323","Small molecule",0,378.38,75
+"2051","CHEMBL463526","LICARIN A","NSC-16743","Small molecule",0,326.39,19
+"2052","CHEMBL251254","HYPEROSIDE","Hyperoside","Small molecule",0,464.38,65
+"2053","CHEMBL511557","BUCHAPINE","Buchapine","Small molecule",0,297.4,4
+"2054","CHEMBL508781",NA,"(+)-Aromoline","Small molecule",0,594.71,68
+"2055","CHEMBL514883","KNIPHOLONE","(+)-M-Knipholone|Knipholone","Small molecule",0,434.4,10
+"2056","CHEMBL550252",NA,"28-Hydroxymangiferonic Acid","Small molecule",0,470.69,1
+"2057","CHEMBL93353","ARISTOLOCHIC ACID","Aristolochic Acid I","Small molecule",0,341.28,97
+"2058","CHEMBL242273","SAFROLE","SAFROLE|Safrole|Shikimol","Small molecule",0,162.19,140
+"2059","CHEMBL374043","ARDISIANOSIDE H",NA,"Small molecule",0,1547.65,5
+"2060","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"2061","CHEMBL1970377",NA,NA,"Small molecule",0,278.42,56
+"2062","CHEMBL447893",NA,NA,"Small molecule",0,1265.45,1
+"2063","CHEMBL1782241","COCHINCHINONE A","Cochinchinone A","Small molecule",0,448.56,4
+"2064","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"2065","CHEMBL242550","DIOSPYRIN","Diospyrin","Small molecule",0,374.35,15
+"2066","CHEMBL53566","TYROSOL","tyrosol","Small molecule",0,138.17,33
+"2067","CHEMBL2003515",NA,NA,"Small molecule",0,314.29,60
+"2068","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"2069","CHEMBL511805","ALPHITOLIC ACID","Alphitolic Acid","Small molecule",0,472.71,19
+"2070","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"2071","CHEMBL1086907",NA,NA,"Small molecule",0,520.53,2
+"2072","CHEMBL233930","ASTRAGALIN","Astragalin|Kaempferol 3-O-Glucoside","Small molecule",0,448.38,66
+"2073","CHEMBL152377",NA,NA,"Small molecule",0,298.34,4
+"2074","CHEMBL470249",NA,"4-Methylabyssinone V","Small molecule",0,422.52,4
+"2075","CHEMBL362071","COPTISINE",NA,"Small molecule",0,320.32,6
+"2076","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"2077","CHEMBL32749","FERULATE","Ferulic acid","Small molecule",0,194.19,268
+"2078","CHEMBL457605","TAZETTINE","(+)-Tazettine","Small molecule",0,331.37,21
+"2079","CHEMBL596222",NA,NA,"Small molecule",0,220.18,4
+"2080","CHEMBL596396","CASSIARIN A",NA,"Small molecule",0,213.24,9
+"2081","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"2082","CHEMBL460031","GENIPOSIDIC ACID","Geniposidic Acid","Small molecule",0,374.34,12
+"2083","CHEMBL480278","KALLOLIDE A",NA,"Small molecule",0,328.41,56
+"2084","CHEMBL165","RESVERATROL","(E)-RESVERATROL|3,5,4'-Trihydroxy-trans-stilbene|BIA 6-512|BIA-6-512|BIOFORT|CA 1201|CUSPIDATIN|MELINJO RESVERATROL 20|NSC-327430|POLYGONIN|RESVERATROL|RESVERATROL P 5|RESVERATROL(E)-FORM|RESVIDA|SRT 501M|TRANS-RESVERATROL","Small molecule",3,228.25,451
+"2085","CHEMBL1278178",NA,NA,"Small molecule",0,448.73,1
+"2086","CHEMBL1689344",NA,NA,"Small molecule",0,398.41,1
+"2087","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"2088","CHEMBL3261111",NA,NA,"Small molecule",0,286.37,3
+"2089","CHEMBL594886","PRENYLETIN 6-METHYL ETHER",NA,"Small molecule",0,260.29,3
+"2090","CHEMBL77588",NA,NA,"Small molecule",0,360.32,3
+"2091","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"2092","CHEMBL452751","PHELLOPTERIN","Phellopterin","Small molecule",0,300.31,32
+"2093","CHEMBL273019","BERGENIN","BERGENIN|BERGENINUM|NSC-661749|NSC-757796|YANBAICAISU","Small molecule",0,328.27,39
+"2094","CHEMBL3344508",NA,NA,"Small molecule",0,1085.24,2
+"2095","CHEMBL1644112",NA,"8Alpha,15-Dihydroxy-13Elabdene","Small molecule",0,308.51,63
+"2096","CHEMBL269277","BETULINIC ACID",".BETA.-BETULINIC ACID|ALS-357|BETULIC ACID|BETULINIC ACID|LUPATIC ACID|MAIRIN|NSC-113090|NSC-677578","Small molecule",1,456.71,245
+"2097","CHEMBL228286","(-)-ANTOFINE","(-)-Antofine","Small molecule",0,363.46,21
+"2098","CHEMBL1971693",NA,NA,"Small molecule",0,365.39,55
+"2099","CHEMBL509424",NA,NA,"Small molecule",0,263.45,2
+"2100","CHEMBL518542","SPATHULENOL","(+)-Spathulenol|Spathulenol|Spatulenol","Small molecule",0,220.36,18
+"2101","CHEMBL1215434","PHYSALIN F","Physalin F","Small molecule",0,526.54,28
+"2102","CHEMBL444453","MANSONIN","Mansonin","Small molecule",0,578.7,1
+"2103","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"2104","CHEMBL1077094","LONGIPEDLACTONE P","Longipedlactone P","Small molecule",0,570.68,5
+"2105","CHEMBL445290","ORTHOSIPHOL X","7-O-Deacetylorthosiphol O","Small molecule",0,634.72,1
+"2106","CHEMBL477826",NA,NA,"Small molecule",0,454.7,7
+"2107","CHEMBL453876","MAMMEA A/AC",NA,"Small molecule",0,392.45,2
+"2108","CHEMBL89905","4'-DEMETHYLDEOXYPODOPHYLLOTOXIN","4'-Demethyldeoxypodophyllotoxin|4-Demethyl-Deoxypodophyllotoxin","Small molecule",0,384.38,34
+"2109","CHEMBL449916",NA,NA,"Small molecule",0,1383.53,3
+"2110","CHEMBL443402","TONKINECIN","Tonkinecin","Small molecule",0,608.94,4
+"2111","CHEMBL198075","CRYPTOPLEURINE","(-)-Cryptopleurine|Cryptopleurine|R-Cryptopleurine","Small molecule",0,377.48,96
+"2112","CHEMBL511193","ISOCUPRESSIC ACID","Isocupressic Acid|Isocupressicacid","Small molecule",0,320.47,12
+"2113","CHEMBL2011505","MELODININE N","Melodinine N","Small molecule",0,366.46,5
+"2114","CHEMBL2062825",NA,NA,"Small molecule",0,603.71,10
+"2115","CHEMBL1973570",NA,NA,"Small molecule",0,314.43,54
+"2116","CHEMBL1773904","GALACTITOL","Galactitol","Small molecule",0,182.17,7
+"2117","CHEMBL3581358",NA,NA,"Small molecule",0,370.4,1
+"2118","CHEMBL2419843",NA,NA,"Small molecule",0,276.33,1
+"2119","CHEMBL1998453",NA,NA,"Small molecule",0,358.39,57
+"2120","CHEMBL1760595","BERFUSSINOL","Berfussinol","Small molecule",0,256.25,4
+"2121","CHEMBL464649","EPIFRIEDELINOL","3Beta-Friedelanol|3Beta-Hydroxyfriedelane","Small molecule",0,428.75,11
+"2122","CHEMBL63970","DESOXYPODOPHYLLOTOXIN","(-)-Deoxypodophyllotoxin|4-Deoxypodophyllotoxin|Beta-Apopicropodophyllin|Deoxypodophyllotoxin|Desoxypodophyllotoxin","Small molecule",0,398.41,102
+"2123","CHEMBL513639",NA,NA,"Small molecule",0,1477.9,53
+"2124","CHEMBL168","OLEANOLIC_ACID","NSC-114945","Small molecule",0,456.71,197
+"2125","CHEMBL255650",NA,NA,"Small molecule",0,542.85,2
+"2126","CHEMBL506814","PUNICALAGIN","Punicalagin","Small molecule",0,1084.72,14
+"2127","CHEMBL689","MANNITOL","ARIDOL KIT|Alexitol sodium|BRONCHITOL|CORDYCEPIC ACID|CRYSTALLINE MANNITOL EXTRA-FINE|CRYSTALLINE MANNITOL FINE|CRYSTALLINE MANNITOL STANDARD|D-(-)-MANNITOL|D-MANNITOL|Diosmol|E-421|E421|INS NO.421|INS-421|ISOMALT IMPURITY, MANNITOL-|MANNA SUGAR|MANNITE|MANNITOL|MANNITOL 200|MANNITOL 2080|MANNITOL 25|MANNITOL 300|MANNITOL 35|MANNITOL 60|MANNITOL M300|MANNITOL, D-|MANNITOLUM|MANNOGEM 2080|Mannite|Mannitol|NSC-407017|Osmitrol|PEARLITOL 160 C|PEARLITOL 200 SD|PEARLITOL 25 C|PEARLITOL 300 DC|PEARLITOL 50 C|Resectisol","Small molecule",4,182.17,149
+"2128","CHEMBL3092474",NA,NA,"Small molecule",0,346.38,3
+"2129","CHEMBL522181","POLYPODINE B",NA,"Small molecule",0,496.64,3
+"2130","CHEMBL2007304",NA,NA,"Small molecule",0,284.31,54
+"2131","CHEMBL254751",NA,NA,"Small molecule",0,474.73,2
+"2132","CHEMBL93355","KOPSININE","Kopsinine","Small molecule",0,338.45,1
+"2133","CHEMBL472851","SKYRIN","Skyrin","Small molecule",0,538.46,79
+"2134","CHEMBL483012","CANOPHYLLOL","Canophyllol","Small molecule",0,442.73,8
+"2135","CHEMBL478772","TOTARAL","Totaral","Small molecule",0,300.44,14
+"2136","CHEMBL21396","SKIMMIANINE","Skimmianine","Small molecule",0,259.26,43
+"2137","CHEMBL289191","LUPEOL","Clerodol|Fagarasterol|Farganasterol|Lupeol|Monogynol B","Small molecule",0,426.73,149
